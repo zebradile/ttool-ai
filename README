@@ -1,0 +1,18 @@
+This repository contains a few examples on how TTool and ChatGPT perform.
+
+How to make this work?
+
+You can either consult the result.pdf file in each example subdirectory, or you can try on your own to use the system specifications and models to reproduce similar results. For this, you need to:
+
+
+- You first need to install TTool
+- You then need to get a valid OPENAI key
+- You need to change the config.xml file of your TTool installation:
+
+Add this (and coorectly set your ket):
+<OPENAIKey data="your key/>
+<OPENAIModel data="gpt-3.5-turbo"/>
+
+- You can start TTool, and follow the result.pdf file of each example to reproduce the results. Since ChatGPT is based on randomness to produce the results, it il very likely you will get results different from ours.
+
+Enjoy!
