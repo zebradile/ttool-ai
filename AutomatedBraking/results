@@ -1,0 +1,10 @@
+Test	time_bd		grade_bd	time_smd	grade_smd
+1	45				147
+2	31				157
+3	26				353
+4	31				251
+5	66				203
+
+Students 13 students
+grade_bd: 71%
+grade_smd: 58%
