@@ -2,14 +2,15 @@ This repository contains a few examples on how TTool and ChatGPT perform.
 
 # Directory organization
 
-There are three subdirectories.  Each one contains a desc file, with the system specification, and a TTool file featuring five outputs produced by TTool + ChatGPT 3.5, with NO human modification, apart from a better placements of graphical components.
+There are three subdirectories. Each one contains a desc file, with the system specification, and a TTool file featuring five outputs produced by TTool + ChatGPT 3.5, with NO human modification, apart from a better placement of graphical components.
 
-The main directory also contains this README and the results in results.ods: these results give the time to obtain the diagrams, and their quality. This quality is compared with the one of diagrams made by master-level students after 21h of teaching.
+The main directory also contains this README and the results in results.ods: these results give the time to obtain the diagrams, and their quality. This quality is compared with one of the diagrams made by master-level students after 21h of lectures ands labs.
 
 
 # How to look at the models we have obtained?
+
 - You first need to install TTool
-- Then, with TTool, open one of the .xml file located in the subdirectory. For instance, to look at the platooning model, open platooning/platoonings.xml 
+- Then, with TTool, open one of the .xml files located in the subdirectory. For instance, to look at the platooning model, open platooning/platoonings.xml 
 
 # How to reproduce the results?
 
@@ -17,16 +18,16 @@ The main directory also contains this README and the results in results.ods: the
 - You then need to get a valid OPENAI key
 - You need to change the config.xml file of your TTool installation:
 
-Add this (and coorectly set your ket):
+Add this (and correctly set your key):
 <OPENAIKey data="your key/>
 <OPENAIModel data="gpt-3.5-turbo"/>
 
 - You can start TTool, and use the AI dialog windows. There, you put the system specification in the question area, and you have to select, to identify blocks: "Identify system blocks (knowledge type #2 with slicing) - Provide a system specification". Then, click on start.
 
-Once the blocks have been determined, clock on "apply response", and close the AI window
+Once the blocks have been determined, click on "apply response", and close the AI window.
 
-- To identify state machines: select a block diagram, open the AI window, put in the question field the system specification, and select ""Identify state machines and attributes - Select a block diagram. Additionally, you can provide a system specification". Click on start. Once state machine have been computed, select "apply response". You should now have both block and state machine diagrams.
+- To identify state machines: select a block diagram, open the AI window, put in the question field the system specification, and select "Identify state machines and attributes - Select a block diagram. Additionally, you can provide a system specification". Click on start. Once state machine have been computed, select "apply response". You should now have both block and state machine diagrams.
 
-Since ChatGPT is based on randomness to produce the results, it il very likely you will get results different from ours. Try several times to figure out the differences you may obtain.
+Since ChatGPT is based on randomness to produce the results, it is very likely you will get results different from ours. Try several times to figure out the differences you may obtain.
 
 Enjoy!
