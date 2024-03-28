@@ -16,11 +16,11 @@ The main directory also contains this README and the results in results.ods: the
 
 - You first need to install TTool
 - You then need to get a valid OPENAI key
-- You need to change the config.xml file of your TTool installation:
+- You need to change the config.xml file of your TTool installation (see https://ttool.telecom-paris.fr/ttoolai.html):
 
 Add this (and correctly set your key):
 <OPENAIKey data="your key/>
-<OPENAIModel data="gpt-3.5-turbo"/>
+<OPENAIModel data="gpt-3.5-turbo gpt-4-0125-preview"/> 
 
 - You can start TTool, and use the AI dialog windows. There, you put the system specification in the question area, and you have to select, to identify blocks: "Identify system blocks (knowledge type #2 with slicing) - Provide a system specification". Then, click on start.
 
