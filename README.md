@@ -111,7 +111,7 @@ Do correct the block diagram considering the following incoherencies:
 Do correct incoherency 1-5 to propose a new block diagram.
 
 ```
-Click on start, wait. Then click on apply, and reorgaznise the blocks: you should have an updated Block Diagram.
+Click on start, wait. Then click on apply, and reorganize the blocks: you should have an updated Block Diagram.
 
 
 
