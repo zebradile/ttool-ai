@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TURTLEGMODELING version="3.0 beta" ANIMATE_INTERACTIVE_SIMULATION="true" ACTIVATE_PENALTIES="true" UPDATE_INFORMATION_DIPLO_SIM="true" ANIMATE_WITH_INFO_DIPLO_SIM="true" OPEN_DIAG_DIPLO_SIM="false" LAST_SELECTED_MAIN_TAB="0" LAST_SELECTED_SUB_TAB="0">
+
+<Modeling type="AttackTree" nameTab="AttackTree__20240607_103832" >
+<AttackTreeDiagramPanel name="AttackTree__20240607_103832" minX="10" maxX="2500" minY="10" maxY="1500" zoom="1.0" >
+<CONNECTOR type="133" id="369" index="0" uid="679d2ce3-9a24-4814-bf9c-b7fc7a378da5" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="3" />
+<TGConnectingPoint num="0" id="368" />
+<P1  x="1481" y="491" id="785" />
+<P2  x="1312" y="410" id="727" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="371" index="1" uid="37635e5f-445d-4ba9-a4f0-e700725b4880" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="2" />
+<TGConnectingPoint num="0" id="370" />
+<P1  x="1418" y="569" id="758" />
+<P2  x="1237" y="410" id="726" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="373" index="2" uid="3e9bf34c-efef-4be4-869b-1092b1e23891" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="1" />
+<TGConnectingPoint num="0" id="372" />
+<P1  x="1390" y="655" id="736" />
+<P2  x="1200" y="397" id="724" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="375" index="3" uid="18ce7bda-ecd6-4fdf-91b3-8d5f50b9fa6d" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="3" />
+<TGConnectingPoint num="0" id="374" />
+<P1  x="1237" y="360" id="720" />
+<P2  x="1138" y="274" id="699" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="377" index="4" uid="2dbba01b-ea4c-4498-b6bf-183eb970dd77" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="3" />
+<TGConnectingPoint num="0" id="376" />
+<P1  x="1138" y="254" id="697" />
+<P2  x="904" y="173" id="436" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="379" index="5" uid="7f0e7a20-10d9-4553-a5f6-53502625ec54" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="3" />
+<TGConnectingPoint num="0" id="378" />
+<P1  x="1013" y="572" id="672" />
+<P2  x="924" y="435" id="614" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="381" index="6" uid="394199c3-00ee-4687-80d4-96d4bc141eb7" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="2" />
+<TGConnectingPoint num="0" id="380" />
+<P1  x="919" y="647" id="645" />
+<P2  x="849" y="435" id="613" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="383" index="7" uid="e6a0e4f0-cf1f-4a98-ad8b-8e1318f8d684" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="1" />
+<TGConnectingPoint num="0" id="382" />
+<P1  x="809" y="564" id="623" />
+<P2  x="812" y="422" id="611" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="385" index="8" uid="307fecfb-05b2-4bcf-b8c8-97afaa5e78cf" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="2" />
+<TGConnectingPoint num="0" id="384" />
+<P1  x="849" y="385" id="607" />
+<P2  x="771" y="275" id="586" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="387" index="9" uid="287630d8-0b1e-47fe-95ae-1b6a5b4364fb" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="2" />
+<TGConnectingPoint num="0" id="386" />
+<P1  x="808" y="245" id="582" />
+<P2  x="791" y="186" id="437" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="389" index="10" uid="a77c0189-51c3-4113-b74b-df94928a6c0c" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="4" />
+<TGConnectingPoint num="0" id="388" />
+<P1  x="546" y="689" id="559" />
+<P2  x="482" y="417" id="474" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="391" index="11" uid="d9e24fb8-3ba8-4baf-aa99-42f9e95663a3" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="3" />
+<TGConnectingPoint num="0" id="390" />
+<P1  x="337" y="648" id="534" />
+<P2  x="369" y="430" id="475" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="393" index="12" uid="25cb6eca-7f70-4c1f-9f3e-d03860956ef8" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="2" />
+<TGConnectingPoint num="0" id="392" />
+<P1  x="239" y="693" id="503" />
+<P2  x="332" y="405" id="466" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="395" index="13" uid="b89bb713-6933-4bbf-9008-cf0ac9c43367" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="1" />
+<TGConnectingPoint num="0" id="394" />
+<P1  x="240" y="574" id="485" />
+<P2  x="332" y="417" id="473" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="397" index="14" uid="80009adf-24e3-45b7-8e45-1a421786cede" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="1" />
+<TGConnectingPoint num="0" id="396" />
+<P1  x="369" y="380" id="469" />
+<P2  x="293" y="277" id="448" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="399" index="15" uid="c59d51c6-c8b3-44a2-b8f7-d00823227f46" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="1" />
+<TGConnectingPoint num="0" id="398" />
+<P1  x="522" y="257" id="447" />
+<P2  x="754" y="173" id="435" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="401" index="16" uid="f1d734b2-46a4-47af-815a-06449a0aa8c0" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="400" />
+<P1  x="791" y="136" id="431" />
+<P2  x="699" y="82" id="410" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="426" index="17" uid="71b456b3-ce6f-47db-b277-38d752fa8043" >
+<cdparam x="699" y="52" />
+<sizeparam width="259" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="StealProfessionalPhotographyContent" />
+<new d="false" />
+<TGConnectingPoint num="0" id="402" />
+<TGConnectingPoint num="1" id="403" />
+<TGConnectingPoint num="2" id="404" />
+<TGConnectingPoint num="3" id="405" />
+<TGConnectingPoint num="4" id="406" />
+<TGConnectingPoint num="5" id="407" />
+<TGConnectingPoint num="6" id="408" />
+<TGConnectingPoint num="7" id="409" />
+<TGConnectingPoint num="8" id="410" />
+<TGConnectingPoint num="9" id="411" />
+<TGConnectingPoint num="10" id="412" />
+<TGConnectingPoint num="11" id="413" />
+<TGConnectingPoint num="12" id="414" />
+<TGConnectingPoint num="13" id="415" />
+<TGConnectingPoint num="14" id="416" />
+<TGConnectingPoint num="15" id="417" />
+<TGConnectingPoint num="16" id="418" />
+<TGConnectingPoint num="17" id="419" />
+<TGConnectingPoint num="18" id="420" />
+<TGConnectingPoint num="19" id="421" />
+<TGConnectingPoint num="20" id="422" />
+<TGConnectingPoint num="21" id="423" />
+<TGConnectingPoint num="22" id="424" />
+<TGConnectingPoint num="23" id="425" />
+<extraparam>
+<info description="An attacker might target the Photogenic platform to steal high-quality photography content from professional photographers. By accessing their accounts or intercepting file uploads, attackers can obtain valuable digital media without authorization, using techniques like Hiding Malicious Data or Code within Files to embed malicious code into image files uploaded on the platform." root="true" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1402" id="439" index="18" uid="68a5611f-50ff-45a2-aeda-0c82c4cb4d3d" >
+<cdparam x="754" y="136" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;OR&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="427" />
+<TGConnectingPoint num="1" id="428" />
+<TGConnectingPoint num="2" id="429" />
+<TGConnectingPoint num="3" id="430" />
+<TGConnectingPoint num="4" id="431" />
+<TGConnectingPoint num="5" id="432" />
+<TGConnectingPoint num="6" id="433" />
+<TGConnectingPoint num="7" id="434" />
+<TGConnectingPoint num="8" id="435" />
+<TGConnectingPoint num="9" id="436" />
+<TGConnectingPoint num="10" id="437" />
+<TGConnectingPoint num="11" id="438" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="464" index="19" uid="0f097a77-da84-43ed-a2cf-504fff5f8fb9" >
+<cdparam x="293" y="247" />
+<sizeparam width="229" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="EmbedMaliciousCodeInImageFiles" />
+<new d="false" />
+<TGConnectingPoint num="0" id="440" />
+<TGConnectingPoint num="1" id="441" />
+<TGConnectingPoint num="2" id="442" />
+<TGConnectingPoint num="3" id="443" />
+<TGConnectingPoint num="4" id="444" />
+<TGConnectingPoint num="5" id="445" />
+<TGConnectingPoint num="6" id="446" />
+<TGConnectingPoint num="7" id="447" />
+<TGConnectingPoint num="8" id="448" />
+<TGConnectingPoint num="9" id="449" />
+<TGConnectingPoint num="10" id="450" />
+<TGConnectingPoint num="11" id="451" />
+<TGConnectingPoint num="12" id="452" />
+<TGConnectingPoint num="13" id="453" />
+<TGConnectingPoint num="14" id="454" />
+<TGConnectingPoint num="15" id="455" />
+<TGConnectingPoint num="16" id="456" />
+<TGConnectingPoint num="17" id="457" />
+<TGConnectingPoint num="18" id="458" />
+<TGConnectingPoint num="19" id="459" />
+<TGConnectingPoint num="20" id="460" />
+<TGConnectingPoint num="21" id="461" />
+<TGConnectingPoint num="22" id="462" />
+<TGConnectingPoint num="23" id="463" />
+<extraparam>
+<info description="An attacker embeds malicious code within image files that are uploaded to the Photogenic platform. When these images are processed or viewed by the system or other users, the embedded code executes, potentially giving the attacker unauthorized access to the platform and the ability to steal professional photography content." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1402" id="477" index="20" uid="9c0c5323-fb25-4c04-9060-5238eb3a96fc" >
+<cdparam x="332" y="380" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;SEQUENCE&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="465" />
+<TGConnectingPoint num="1" id="466" />
+<TGConnectingPoint num="2" id="467" />
+<TGConnectingPoint num="3" id="468" />
+<TGConnectingPoint num="4" id="469" />
+<TGConnectingPoint num="5" id="470" />
+<TGConnectingPoint num="6" id="471" />
+<TGConnectingPoint num="7" id="472" />
+<TGConnectingPoint num="8" id="473" />
+<TGConnectingPoint num="9" id="474" />
+<TGConnectingPoint num="10" id="475" />
+<TGConnectingPoint num="11" id="476" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="502" index="21" uid="2b80e838-cf28-4b3b-abac-dded69b56cf0" >
+<cdparam x="35" y="564" />
+<sizeparam width="205" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="DevelopEmbeddingTechnique" />
+<new d="false" />
+<TGConnectingPoint num="0" id="478" />
+<TGConnectingPoint num="1" id="479" />
+<TGConnectingPoint num="2" id="480" />
+<TGConnectingPoint num="3" id="481" />
+<TGConnectingPoint num="4" id="482" />
+<TGConnectingPoint num="5" id="483" />
+<TGConnectingPoint num="6" id="484" />
+<TGConnectingPoint num="7" id="485" />
+<TGConnectingPoint num="8" id="486" />
+<TGConnectingPoint num="9" id="487" />
+<TGConnectingPoint num="10" id="488" />
+<TGConnectingPoint num="11" id="489" />
+<TGConnectingPoint num="12" id="490" />
+<TGConnectingPoint num="13" id="491" />
+<TGConnectingPoint num="14" id="492" />
+<TGConnectingPoint num="15" id="493" />
+<TGConnectingPoint num="16" id="494" />
+<TGConnectingPoint num="17" id="495" />
+<TGConnectingPoint num="18" id="496" />
+<TGConnectingPoint num="19" id="497" />
+<TGConnectingPoint num="20" id="498" />
+<TGConnectingPoint num="21" id="499" />
+<TGConnectingPoint num="22" id="500" />
+<TGConnectingPoint num="23" id="501" />
+<extraparam>
+<info description="Develop a technique to embed malicious code inside image files without affecting their usability or appearance." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="527" index="22" uid="7d14b8c6-54a0-4f79-ab12-70dcbc510a1f" >
+<cdparam x="167" y="693" />
+<sizeparam width="145" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="CraftMaliciousImage" />
+<new d="false" />
+<TGConnectingPoint num="0" id="503" />
+<TGConnectingPoint num="1" id="504" />
+<TGConnectingPoint num="2" id="505" />
+<TGConnectingPoint num="3" id="506" />
+<TGConnectingPoint num="4" id="507" />
+<TGConnectingPoint num="5" id="508" />
+<TGConnectingPoint num="6" id="509" />
+<TGConnectingPoint num="7" id="510" />
+<TGConnectingPoint num="8" id="511" />
+<TGConnectingPoint num="9" id="512" />
+<TGConnectingPoint num="10" id="513" />
+<TGConnectingPoint num="11" id="514" />
+<TGConnectingPoint num="12" id="515" />
+<TGConnectingPoint num="13" id="516" />
+<TGConnectingPoint num="14" id="517" />
+<TGConnectingPoint num="15" id="518" />
+<TGConnectingPoint num="16" id="519" />
+<TGConnectingPoint num="17" id="520" />
+<TGConnectingPoint num="18" id="521" />
+<TGConnectingPoint num="19" id="522" />
+<TGConnectingPoint num="20" id="523" />
+<TGConnectingPoint num="21" id="524" />
+<TGConnectingPoint num="22" id="525" />
+<TGConnectingPoint num="23" id="526" />
+<extraparam>
+<info description="Create image files that contain the crafted malicious code, ensuring that they still look and behave like normal images." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="552" index="23" uid="4a644d00-efe3-45de-aef7-0aaf99ac54ae" >
+<cdparam x="337" y="638" />
+<sizeparam width="166" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="UploadMaliciousImages" />
+<new d="false" />
+<TGConnectingPoint num="0" id="528" />
+<TGConnectingPoint num="1" id="529" />
+<TGConnectingPoint num="2" id="530" />
+<TGConnectingPoint num="3" id="531" />
+<TGConnectingPoint num="4" id="532" />
+<TGConnectingPoint num="5" id="533" />
+<TGConnectingPoint num="6" id="534" />
+<TGConnectingPoint num="7" id="535" />
+<TGConnectingPoint num="8" id="536" />
+<TGConnectingPoint num="9" id="537" />
+<TGConnectingPoint num="10" id="538" />
+<TGConnectingPoint num="11" id="539" />
+<TGConnectingPoint num="12" id="540" />
+<TGConnectingPoint num="13" id="541" />
+<TGConnectingPoint num="14" id="542" />
+<TGConnectingPoint num="15" id="543" />
+<TGConnectingPoint num="16" id="544" />
+<TGConnectingPoint num="17" id="545" />
+<TGConnectingPoint num="18" id="546" />
+<TGConnectingPoint num="19" id="547" />
+<TGConnectingPoint num="20" id="548" />
+<TGConnectingPoint num="21" id="549" />
+<TGConnectingPoint num="22" id="550" />
+<TGConnectingPoint num="23" id="551" />
+<extraparam>
+<info description="Upload the crafted malicious images to the Photogenic platform through normal user interaction or by exploiting vulnerabilities." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="577" index="24" uid="cd0f8e12-4061-43d5-be9e-b026621d2be3" >
+<cdparam x="546" y="679" />
+<sizeparam width="157" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="TriggerCodeExecution" />
+<new d="false" />
+<TGConnectingPoint num="0" id="553" />
+<TGConnectingPoint num="1" id="554" />
+<TGConnectingPoint num="2" id="555" />
+<TGConnectingPoint num="3" id="556" />
+<TGConnectingPoint num="4" id="557" />
+<TGConnectingPoint num="5" id="558" />
+<TGConnectingPoint num="6" id="559" />
+<TGConnectingPoint num="7" id="560" />
+<TGConnectingPoint num="8" id="561" />
+<TGConnectingPoint num="9" id="562" />
+<TGConnectingPoint num="10" id="563" />
+<TGConnectingPoint num="11" id="564" />
+<TGConnectingPoint num="12" id="565" />
+<TGConnectingPoint num="13" id="566" />
+<TGConnectingPoint num="14" id="567" />
+<TGConnectingPoint num="15" id="568" />
+<TGConnectingPoint num="16" id="569" />
+<TGConnectingPoint num="17" id="570" />
+<TGConnectingPoint num="18" id="571" />
+<TGConnectingPoint num="19" id="572" />
+<TGConnectingPoint num="20" id="573" />
+<TGConnectingPoint num="21" id="574" />
+<TGConnectingPoint num="22" id="575" />
+<TGConnectingPoint num="23" id="576" />
+<extraparam>
+<info description="Ensure that the code executes when the images are processed or viewed by the system or other users." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="602" index="25" uid="ab62b579-f2b6-4129-855e-2331299a81c8" >
+<cdparam x="771" y="245" />
+<sizeparam width="149" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="InterceptFileUploads" />
+<new d="false" />
+<TGConnectingPoint num="0" id="578" />
+<TGConnectingPoint num="1" id="579" />
+<TGConnectingPoint num="2" id="580" />
+<TGConnectingPoint num="3" id="581" />
+<TGConnectingPoint num="4" id="582" />
+<TGConnectingPoint num="5" id="583" />
+<TGConnectingPoint num="6" id="584" />
+<TGConnectingPoint num="7" id="585" />
+<TGConnectingPoint num="8" id="586" />
+<TGConnectingPoint num="9" id="587" />
+<TGConnectingPoint num="10" id="588" />
+<TGConnectingPoint num="11" id="589" />
+<TGConnectingPoint num="12" id="590" />
+<TGConnectingPoint num="13" id="591" />
+<TGConnectingPoint num="14" id="592" />
+<TGConnectingPoint num="15" id="593" />
+<TGConnectingPoint num="16" id="594" />
+<TGConnectingPoint num="17" id="595" />
+<TGConnectingPoint num="18" id="596" />
+<TGConnectingPoint num="19" id="597" />
+<TGConnectingPoint num="20" id="598" />
+<TGConnectingPoint num="21" id="599" />
+<TGConnectingPoint num="22" id="600" />
+<TGConnectingPoint num="23" id="601" />
+<extraparam>
+<info description="An attacker intercepts the communication between professional photographers and the Photogenic platform during the upload process. By gaining access to the files being uploaded, the attacker can steal high-quality digital media before it is securely stored on the platform." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1402" id="615" index="26" uid="936779a0-4e5b-4385-aee8-e5aebf2f19f3" >
+<cdparam x="812" y="385" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;SEQUENCE&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="603" />
+<TGConnectingPoint num="1" id="604" />
+<TGConnectingPoint num="2" id="605" />
+<TGConnectingPoint num="3" id="606" />
+<TGConnectingPoint num="4" id="607" />
+<TGConnectingPoint num="5" id="608" />
+<TGConnectingPoint num="6" id="609" />
+<TGConnectingPoint num="7" id="610" />
+<TGConnectingPoint num="8" id="611" />
+<TGConnectingPoint num="9" id="612" />
+<TGConnectingPoint num="10" id="613" />
+<TGConnectingPoint num="11" id="614" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="640" index="27" uid="c9d729eb-1b21-4238-97f6-058e3ed62ff4" >
+<cdparam x="622" y="554" />
+<sizeparam width="187" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="EstablishNetworkPresence" />
+<new d="false" />
+<TGConnectingPoint num="0" id="616" />
+<TGConnectingPoint num="1" id="617" />
+<TGConnectingPoint num="2" id="618" />
+<TGConnectingPoint num="3" id="619" />
+<TGConnectingPoint num="4" id="620" />
+<TGConnectingPoint num="5" id="621" />
+<TGConnectingPoint num="6" id="622" />
+<TGConnectingPoint num="7" id="623" />
+<TGConnectingPoint num="8" id="624" />
+<TGConnectingPoint num="9" id="625" />
+<TGConnectingPoint num="10" id="626" />
+<TGConnectingPoint num="11" id="627" />
+<TGConnectingPoint num="12" id="628" />
+<TGConnectingPoint num="13" id="629" />
+<TGConnectingPoint num="14" id="630" />
+<TGConnectingPoint num="15" id="631" />
+<TGConnectingPoint num="16" id="632" />
+<TGConnectingPoint num="17" id="633" />
+<TGConnectingPoint num="18" id="634" />
+<TGConnectingPoint num="19" id="635" />
+<TGConnectingPoint num="20" id="636" />
+<TGConnectingPoint num="21" id="637" />
+<TGConnectingPoint num="22" id="638" />
+<TGConnectingPoint num="23" id="639" />
+<extraparam>
+<info description="The attacker sets up a presence on the network to monitor data flowing to and from the Photogenic platform." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="665" index="28" uid="5ec71ab5-34de-4367-8c69-8996dde5bcde" >
+<cdparam x="872" y="647" />
+<sizeparam width="189" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="InterceptDataTransmission" />
+<new d="false" />
+<TGConnectingPoint num="0" id="641" />
+<TGConnectingPoint num="1" id="642" />
+<TGConnectingPoint num="2" id="643" />
+<TGConnectingPoint num="3" id="644" />
+<TGConnectingPoint num="4" id="645" />
+<TGConnectingPoint num="5" id="646" />
+<TGConnectingPoint num="6" id="647" />
+<TGConnectingPoint num="7" id="648" />
+<TGConnectingPoint num="8" id="649" />
+<TGConnectingPoint num="9" id="650" />
+<TGConnectingPoint num="10" id="651" />
+<TGConnectingPoint num="11" id="652" />
+<TGConnectingPoint num="12" id="653" />
+<TGConnectingPoint num="13" id="654" />
+<TGConnectingPoint num="14" id="655" />
+<TGConnectingPoint num="15" id="656" />
+<TGConnectingPoint num="16" id="657" />
+<TGConnectingPoint num="17" id="658" />
+<TGConnectingPoint num="18" id="659" />
+<TGConnectingPoint num="19" id="660" />
+<TGConnectingPoint num="20" id="661" />
+<TGConnectingPoint num="21" id="662" />
+<TGConnectingPoint num="22" id="663" />
+<TGConnectingPoint num="23" id="664" />
+<extraparam>
+<info description="The attacker intercepts the data being transmitted between the photographers and the Photogenic platform during the upload process." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="690" index="29" uid="dd5befa9-4c1e-47bd-81dc-8ff71d71845e" >
+<cdparam x="1013" y="562" />
+<sizeparam width="142" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="ExtractFileContents" />
+<new d="false" />
+<TGConnectingPoint num="0" id="666" />
+<TGConnectingPoint num="1" id="667" />
+<TGConnectingPoint num="2" id="668" />
+<TGConnectingPoint num="3" id="669" />
+<TGConnectingPoint num="4" id="670" />
+<TGConnectingPoint num="5" id="671" />
+<TGConnectingPoint num="6" id="672" />
+<TGConnectingPoint num="7" id="673" />
+<TGConnectingPoint num="8" id="674" />
+<TGConnectingPoint num="9" id="675" />
+<TGConnectingPoint num="10" id="676" />
+<TGConnectingPoint num="11" id="677" />
+<TGConnectingPoint num="12" id="678" />
+<TGConnectingPoint num="13" id="679" />
+<TGConnectingPoint num="14" id="680" />
+<TGConnectingPoint num="15" id="681" />
+<TGConnectingPoint num="16" id="682" />
+<TGConnectingPoint num="17" id="683" />
+<TGConnectingPoint num="18" id="684" />
+<TGConnectingPoint num="19" id="685" />
+<TGConnectingPoint num="20" id="686" />
+<TGConnectingPoint num="21" id="687" />
+<TGConnectingPoint num="22" id="688" />
+<TGConnectingPoint num="23" id="689" />
+<extraparam>
+<info description="The attacker extracts the files from the intercepted data, gaining access to the high-quality digital media." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="715" index="30" uid="80a810fe-d1b0-40e3-b771-f7b637fa1ff0" >
+<cdparam x="1138" y="244" />
+<sizeparam width="227" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="AccessAccountsThroughPhishing" />
+<new d="false" />
+<TGConnectingPoint num="0" id="691" />
+<TGConnectingPoint num="1" id="692" />
+<TGConnectingPoint num="2" id="693" />
+<TGConnectingPoint num="3" id="694" />
+<TGConnectingPoint num="4" id="695" />
+<TGConnectingPoint num="5" id="696" />
+<TGConnectingPoint num="6" id="697" />
+<TGConnectingPoint num="7" id="698" />
+<TGConnectingPoint num="8" id="699" />
+<TGConnectingPoint num="9" id="700" />
+<TGConnectingPoint num="10" id="701" />
+<TGConnectingPoint num="11" id="702" />
+<TGConnectingPoint num="12" id="703" />
+<TGConnectingPoint num="13" id="704" />
+<TGConnectingPoint num="14" id="705" />
+<TGConnectingPoint num="15" id="706" />
+<TGConnectingPoint num="16" id="707" />
+<TGConnectingPoint num="17" id="708" />
+<TGConnectingPoint num="18" id="709" />
+<TGConnectingPoint num="19" id="710" />
+<TGConnectingPoint num="20" id="711" />
+<TGConnectingPoint num="21" id="712" />
+<TGConnectingPoint num="22" id="713" />
+<TGConnectingPoint num="23" id="714" />
+<extraparam>
+<info description="The attacker uses phishing techniques to deceive professional photographers into revealing their login credentials. Once obtained, the attacker accesses the accounts to download high-value photographic content without authorization." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1402" id="728" index="31" uid="1314eaae-fd2b-42c0-bc83-6933acf40e90" >
+<cdparam x="1200" y="360" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;SEQUENCE&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="716" />
+<TGConnectingPoint num="1" id="717" />
+<TGConnectingPoint num="2" id="718" />
+<TGConnectingPoint num="3" id="719" />
+<TGConnectingPoint num="4" id="720" />
+<TGConnectingPoint num="5" id="721" />
+<TGConnectingPoint num="6" id="722" />
+<TGConnectingPoint num="7" id="723" />
+<TGConnectingPoint num="8" id="724" />
+<TGConnectingPoint num="9" id="725" />
+<TGConnectingPoint num="10" id="726" />
+<TGConnectingPoint num="11" id="727" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="753" index="32" uid="7fc2af1e-d410-4d15-ad67-047879bedc54" >
+<cdparam x="1252" y="645" />
+<sizeparam width="138" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="SendPhishingEmail" />
+<new d="false" />
+<TGConnectingPoint num="0" id="729" />
+<TGConnectingPoint num="1" id="730" />
+<TGConnectingPoint num="2" id="731" />
+<TGConnectingPoint num="3" id="732" />
+<TGConnectingPoint num="4" id="733" />
+<TGConnectingPoint num="5" id="734" />
+<TGConnectingPoint num="6" id="735" />
+<TGConnectingPoint num="7" id="736" />
+<TGConnectingPoint num="8" id="737" />
+<TGConnectingPoint num="9" id="738" />
+<TGConnectingPoint num="10" id="739" />
+<TGConnectingPoint num="11" id="740" />
+<TGConnectingPoint num="12" id="741" />
+<TGConnectingPoint num="13" id="742" />
+<TGConnectingPoint num="14" id="743" />
+<TGConnectingPoint num="15" id="744" />
+<TGConnectingPoint num="16" id="745" />
+<TGConnectingPoint num="17" id="746" />
+<TGConnectingPoint num="18" id="747" />
+<TGConnectingPoint num="19" id="748" />
+<TGConnectingPoint num="20" id="749" />
+<TGConnectingPoint num="21" id="750" />
+<TGConnectingPoint num="22" id="751" />
+<TGConnectingPoint num="23" id="752" />
+<extraparam>
+<info description="The attacker sends an email to professional photographers that appears to be from a trusted source, enticing them to click on a malicious link." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="778" index="33" uid="db063047-2d72-42a0-973e-5ba20780110a" >
+<cdparam x="1383" y="569" />
+<sizeparam width="141" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="CaptureCredentials" />
+<new d="false" />
+<TGConnectingPoint num="0" id="754" />
+<TGConnectingPoint num="1" id="755" />
+<TGConnectingPoint num="2" id="756" />
+<TGConnectingPoint num="3" id="757" />
+<TGConnectingPoint num="4" id="758" />
+<TGConnectingPoint num="5" id="759" />
+<TGConnectingPoint num="6" id="760" />
+<TGConnectingPoint num="7" id="761" />
+<TGConnectingPoint num="8" id="762" />
+<TGConnectingPoint num="9" id="763" />
+<TGConnectingPoint num="10" id="764" />
+<TGConnectingPoint num="11" id="765" />
+<TGConnectingPoint num="12" id="766" />
+<TGConnectingPoint num="13" id="767" />
+<TGConnectingPoint num="14" id="768" />
+<TGConnectingPoint num="15" id="769" />
+<TGConnectingPoint num="16" id="770" />
+<TGConnectingPoint num="17" id="771" />
+<TGConnectingPoint num="18" id="772" />
+<TGConnectingPoint num="19" id="773" />
+<TGConnectingPoint num="20" id="774" />
+<TGConnectingPoint num="21" id="775" />
+<TGConnectingPoint num="22" id="776" />
+<TGConnectingPoint num="23" id="777" />
+<extraparam>
+<info description="The attacker captures the login credentials entered by the photographers on the phishing website." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="803" index="34" uid="e15b0ae1-c58a-482d-9540-36b9c59b5011" >
+<cdparam x="1481" y="481" />
+<sizeparam width="122" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="AccessAccounts" />
+<new d="false" />
+<TGConnectingPoint num="0" id="779" />
+<TGConnectingPoint num="1" id="780" />
+<TGConnectingPoint num="2" id="781" />
+<TGConnectingPoint num="3" id="782" />
+<TGConnectingPoint num="4" id="783" />
+<TGConnectingPoint num="5" id="784" />
+<TGConnectingPoint num="6" id="785" />
+<TGConnectingPoint num="7" id="786" />
+<TGConnectingPoint num="8" id="787" />
+<TGConnectingPoint num="9" id="788" />
+<TGConnectingPoint num="10" id="789" />
+<TGConnectingPoint num="11" id="790" />
+<TGConnectingPoint num="12" id="791" />
+<TGConnectingPoint num="13" id="792" />
+<TGConnectingPoint num="14" id="793" />
+<TGConnectingPoint num="15" id="794" />
+<TGConnectingPoint num="16" id="795" />
+<TGConnectingPoint num="17" id="796" />
+<TGConnectingPoint num="18" id="797" />
+<TGConnectingPoint num="19" id="798" />
+<TGConnectingPoint num="20" id="799" />
+<TGConnectingPoint num="21" id="800" />
+<TGConnectingPoint num="22" id="801" />
+<TGConnectingPoint num="23" id="802" />
+<extraparam>
+<info description="Using the obtained credentials, the attacker logs into the photographers' accounts to download or manipulate high-value content." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+
+</AttackTreeDiagramPanel>
+
+</Modeling>
+
+
+
+
+</TURTLEGMODELING>

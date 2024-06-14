@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TURTLEGMODELING version="3.0 beta" ANIMATE_INTERACTIVE_SIMULATION="true" ACTIVATE_PENALTIES="true" UPDATE_INFORMATION_DIPLO_SIM="true" ANIMATE_WITH_INFO_DIPLO_SIM="true" OPEN_DIAG_DIPLO_SIM="false" LAST_SELECTED_MAIN_TAB="0" LAST_SELECTED_SUB_TAB="0">
+
+<Modeling type="AttackTree" nameTab="AttackTree__20240607_105620" >
+<AttackTreeDiagramPanel name="AttackTree__20240607_105620" minX="10" maxX="2500" minY="10" maxY="1500" zoom="1.0" >
+<CONNECTOR type="133" id="2" index="0" uid="57b8ab11-831a-4b35-af50-16e61f7271e8" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="5" />
+<TGConnectingPoint num="0" id="1" />
+<P1  x="1637" y="585" id="349" />
+<P2  x="1399" y="438" id="239" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="4" index="1" uid="d128195a-91b3-4e04-9441-9208e0607e89" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="4" />
+<TGConnectingPoint num="0" id="3" />
+<P1  x="1415" y="590" id="324" />
+<P2  x="1361" y="451" id="241" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="6" index="2" uid="bf5297cc-2327-43c0-99cc-a0155aac3424" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="3" />
+<TGConnectingPoint num="0" id="5" />
+<P1  x="1234" y="577" id="297" />
+<P2  x="1286" y="451" id="240" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="8" index="3" uid="38b80e1c-6962-48c9-a482-2fd0381fdd5c" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="2" />
+<TGConnectingPoint num="0" id="7" />
+<P1  x="1110" y="580" id="273" />
+<P2  x="1249" y="426" id="231" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="10" index="4" uid="6015dd69-1443-415d-8aa5-0a0eb0048953" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="1" />
+<TGConnectingPoint num="0" id="9" />
+<P1  x="953" y="590" id="250" />
+<P2  x="1249" y="438" id="238" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="12" index="5" uid="cdaa61db-dbb4-4b9f-b5c2-2593dffb69db" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="2" />
+<TGConnectingPoint num="0" id="11" />
+<P1  x="1286" y="401" id="234" />
+<P2  x="1228" y="340" id="213" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="14" index="6" uid="af7f6491-6bde-4f3c-945b-1fd6d9734f19" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="2" />
+<TGConnectingPoint num="0" id="13" />
+<P1  x="1228" y="320" id="211" />
+<P2  x="958" y="241" id="63" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="16" index="7" uid="d139d5b8-3e41-4733-93e2-a4b08ec44023" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="4" />
+<TGConnectingPoint num="0" id="15" />
+<P1  x="613" y="596" id="186" />
+<P2  x="540" y="442" id="101" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="18" index="8" uid="03d869d8-3072-4f72-95d3-9431fa715812" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="3" />
+<TGConnectingPoint num="0" id="17" />
+<P1  x="406" y="596" id="161" />
+<P2  x="465" y="455" id="95" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="20" index="9" uid="77f2615a-1c5e-4565-b1ff-472a3158aca8" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="2" />
+<TGConnectingPoint num="0" id="19" />
+<P1  x="295" y="589" id="130" />
+<P2  x="390" y="430" id="93" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="22" index="10" uid="06b896a1-ea3e-4f2f-8718-501c9fbdc619" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="1" />
+<TGConnectingPoint num="0" id="21" />
+<P1  x="172" y="598" id="112" />
+<P2  x="390" y="442" id="100" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="24" index="11" uid="c891993a-7a62-4402-8e99-64ae496449a3" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="1" />
+<TGConnectingPoint num="0" id="23" />
+<P1  x="427" y="405" id="96" />
+<P2  x="395" y="329" id="75" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="26" index="12" uid="6842c2de-5dd3-4241-917d-7c840a8dd72e" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="1" />
+<TGConnectingPoint num="0" id="25" />
+<P1  x="630" y="309" id="74" />
+<P2  x="808" y="241" id="62" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="28" index="13" uid="6db0e265-7419-4ab0-96c3-d436d1a2bd20" >
+<cdparam x="0" y="0" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="27" />
+<P1  x="845" y="204" id="58" />
+<P2  x="743" y="131" id="37" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="53" index="14" uid="15db47ca-2e0b-4d20-a7d8-141c217f5658" >
+<cdparam x="743" y="101" />
+<sizeparam width="268" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="HighPerformanceComputingExploitation" />
+<new d="false" />
+<TGConnectingPoint num="0" id="29" />
+<TGConnectingPoint num="1" id="30" />
+<TGConnectingPoint num="2" id="31" />
+<TGConnectingPoint num="3" id="32" />
+<TGConnectingPoint num="4" id="33" />
+<TGConnectingPoint num="5" id="34" />
+<TGConnectingPoint num="6" id="35" />
+<TGConnectingPoint num="7" id="36" />
+<TGConnectingPoint num="8" id="37" />
+<TGConnectingPoint num="9" id="38" />
+<TGConnectingPoint num="10" id="39" />
+<TGConnectingPoint num="11" id="40" />
+<TGConnectingPoint num="12" id="41" />
+<TGConnectingPoint num="13" id="42" />
+<TGConnectingPoint num="14" id="43" />
+<TGConnectingPoint num="15" id="44" />
+<TGConnectingPoint num="16" id="45" />
+<TGConnectingPoint num="17" id="46" />
+<TGConnectingPoint num="18" id="47" />
+<TGConnectingPoint num="19" id="48" />
+<TGConnectingPoint num="20" id="49" />
+<TGConnectingPoint num="21" id="50" />
+<TGConnectingPoint num="22" id="51" />
+<TGConnectingPoint num="23" id="52" />
+<extraparam>
+<info description="An adversary may target the Speedy Chip system to leverage its high-performance computing power for unauthorized purposes, such as cryptocurrency mining or launching distributed denial-of-service attacks, by exploiting vulnerabilities in its firmware or hardware." root="true" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1402" id="66" index="15" uid="88cb8a4e-465f-4027-a3e2-7cd2a42b5b68" >
+<cdparam x="808" y="204" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;OR&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="54" />
+<TGConnectingPoint num="1" id="55" />
+<TGConnectingPoint num="2" id="56" />
+<TGConnectingPoint num="3" id="57" />
+<TGConnectingPoint num="4" id="58" />
+<TGConnectingPoint num="5" id="59" />
+<TGConnectingPoint num="6" id="60" />
+<TGConnectingPoint num="7" id="61" />
+<TGConnectingPoint num="8" id="62" />
+<TGConnectingPoint num="9" id="63" />
+<TGConnectingPoint num="10" id="64" />
+<TGConnectingPoint num="11" id="65" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="91" index="16" uid="fb322ccd-8715-4949-8a2e-706a23ec7017" >
+<cdparam x="395" y="299" />
+<sizeparam width="235" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="ExploitationOfFirmwareOrROMCode" />
+<new d="false" />
+<TGConnectingPoint num="0" id="67" />
+<TGConnectingPoint num="1" id="68" />
+<TGConnectingPoint num="2" id="69" />
+<TGConnectingPoint num="3" id="70" />
+<TGConnectingPoint num="4" id="71" />
+<TGConnectingPoint num="5" id="72" />
+<TGConnectingPoint num="6" id="73" />
+<TGConnectingPoint num="7" id="74" />
+<TGConnectingPoint num="8" id="75" />
+<TGConnectingPoint num="9" id="76" />
+<TGConnectingPoint num="10" id="77" />
+<TGConnectingPoint num="11" id="78" />
+<TGConnectingPoint num="12" id="79" />
+<TGConnectingPoint num="13" id="80" />
+<TGConnectingPoint num="14" id="81" />
+<TGConnectingPoint num="15" id="82" />
+<TGConnectingPoint num="16" id="83" />
+<TGConnectingPoint num="17" id="84" />
+<TGConnectingPoint num="18" id="85" />
+<TGConnectingPoint num="19" id="86" />
+<TGConnectingPoint num="20" id="87" />
+<TGConnectingPoint num="21" id="88" />
+<TGConnectingPoint num="22" id="89" />
+<TGConnectingPoint num="23" id="90" />
+<extraparam>
+<info description="An attacker exploits the unpatchable firmware vulnerabilities in Speedy Chip to inject malicious code, enabling them to use the high-performance capabilities of the chip for unauthorized cryptocurrency mining or to launch distributed denial-of-service attacks." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1402" id="104" index="17" uid="208f08c9-ded5-43ee-a526-1db8fd531ca4" >
+<cdparam x="390" y="405" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;SEQUENCE&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="92" />
+<TGConnectingPoint num="1" id="93" />
+<TGConnectingPoint num="2" id="94" />
+<TGConnectingPoint num="3" id="95" />
+<TGConnectingPoint num="4" id="96" />
+<TGConnectingPoint num="5" id="97" />
+<TGConnectingPoint num="6" id="98" />
+<TGConnectingPoint num="7" id="99" />
+<TGConnectingPoint num="8" id="100" />
+<TGConnectingPoint num="9" id="101" />
+<TGConnectingPoint num="10" id="102" />
+<TGConnectingPoint num="11" id="103" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="129" index="18" uid="836f4357-844a-41d9-95e6-6f1e8a0d2c0e" >
+<cdparam x="31" y="588" />
+<sizeparam width="141" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="IdentifyVulnerability" />
+<new d="false" />
+<TGConnectingPoint num="0" id="105" />
+<TGConnectingPoint num="1" id="106" />
+<TGConnectingPoint num="2" id="107" />
+<TGConnectingPoint num="3" id="108" />
+<TGConnectingPoint num="4" id="109" />
+<TGConnectingPoint num="5" id="110" />
+<TGConnectingPoint num="6" id="111" />
+<TGConnectingPoint num="7" id="112" />
+<TGConnectingPoint num="8" id="113" />
+<TGConnectingPoint num="9" id="114" />
+<TGConnectingPoint num="10" id="115" />
+<TGConnectingPoint num="11" id="116" />
+<TGConnectingPoint num="12" id="117" />
+<TGConnectingPoint num="13" id="118" />
+<TGConnectingPoint num="14" id="119" />
+<TGConnectingPoint num="15" id="120" />
+<TGConnectingPoint num="16" id="121" />
+<TGConnectingPoint num="17" id="122" />
+<TGConnectingPoint num="18" id="123" />
+<TGConnectingPoint num="19" id="124" />
+<TGConnectingPoint num="20" id="125" />
+<TGConnectingPoint num="21" id="126" />
+<TGConnectingPoint num="22" id="127" />
+<TGConnectingPoint num="23" id="128" />
+<extraparam>
+<info description="The attacker identifies unpatchable vulnerabilities in the firmware of Speedy Chip." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="154" index="19" uid="15d0ea4f-edd5-448a-afff-d72e8966beea" >
+<cdparam x="240" y="589" />
+<sizeparam width="111" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="DevelopExploit" />
+<new d="false" />
+<TGConnectingPoint num="0" id="130" />
+<TGConnectingPoint num="1" id="131" />
+<TGConnectingPoint num="2" id="132" />
+<TGConnectingPoint num="3" id="133" />
+<TGConnectingPoint num="4" id="134" />
+<TGConnectingPoint num="5" id="135" />
+<TGConnectingPoint num="6" id="136" />
+<TGConnectingPoint num="7" id="137" />
+<TGConnectingPoint num="8" id="138" />
+<TGConnectingPoint num="9" id="139" />
+<TGConnectingPoint num="10" id="140" />
+<TGConnectingPoint num="11" id="141" />
+<TGConnectingPoint num="12" id="142" />
+<TGConnectingPoint num="13" id="143" />
+<TGConnectingPoint num="14" id="144" />
+<TGConnectingPoint num="15" id="145" />
+<TGConnectingPoint num="16" id="146" />
+<TGConnectingPoint num="17" id="147" />
+<TGConnectingPoint num="18" id="148" />
+<TGConnectingPoint num="19" id="149" />
+<TGConnectingPoint num="20" id="150" />
+<TGConnectingPoint num="21" id="151" />
+<TGConnectingPoint num="22" id="152" />
+<TGConnectingPoint num="23" id="153" />
+<extraparam>
+<info description="The attacker develops an exploit to take advantage of the identified vulnerabilities in the firmware." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="179" index="20" uid="fae94bb8-cab8-4aa5-b083-4393752b2f35" >
+<cdparam x="406" y="586" />
+<sizeparam width="143" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="InjectMaliciousCode" />
+<new d="false" />
+<TGConnectingPoint num="0" id="155" />
+<TGConnectingPoint num="1" id="156" />
+<TGConnectingPoint num="2" id="157" />
+<TGConnectingPoint num="3" id="158" />
+<TGConnectingPoint num="4" id="159" />
+<TGConnectingPoint num="5" id="160" />
+<TGConnectingPoint num="6" id="161" />
+<TGConnectingPoint num="7" id="162" />
+<TGConnectingPoint num="8" id="163" />
+<TGConnectingPoint num="9" id="164" />
+<TGConnectingPoint num="10" id="165" />
+<TGConnectingPoint num="11" id="166" />
+<TGConnectingPoint num="12" id="167" />
+<TGConnectingPoint num="13" id="168" />
+<TGConnectingPoint num="14" id="169" />
+<TGConnectingPoint num="15" id="170" />
+<TGConnectingPoint num="16" id="171" />
+<TGConnectingPoint num="17" id="172" />
+<TGConnectingPoint num="18" id="173" />
+<TGConnectingPoint num="19" id="174" />
+<TGConnectingPoint num="20" id="175" />
+<TGConnectingPoint num="21" id="176" />
+<TGConnectingPoint num="22" id="177" />
+<TGConnectingPoint num="23" id="178" />
+<extraparam>
+<info description="Using the developed exploit, the attacker injects malicious code into the firmware or ROM of the chip." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="204" index="21" uid="f4cf7e7a-7896-4439-9aeb-101e16760aba" >
+<cdparam x="613" y="586" />
+<sizeparam width="102" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="ExecuteCode" />
+<new d="false" />
+<TGConnectingPoint num="0" id="180" />
+<TGConnectingPoint num="1" id="181" />
+<TGConnectingPoint num="2" id="182" />
+<TGConnectingPoint num="3" id="183" />
+<TGConnectingPoint num="4" id="184" />
+<TGConnectingPoint num="5" id="185" />
+<TGConnectingPoint num="6" id="186" />
+<TGConnectingPoint num="7" id="187" />
+<TGConnectingPoint num="8" id="188" />
+<TGConnectingPoint num="9" id="189" />
+<TGConnectingPoint num="10" id="190" />
+<TGConnectingPoint num="11" id="191" />
+<TGConnectingPoint num="12" id="192" />
+<TGConnectingPoint num="13" id="193" />
+<TGConnectingPoint num="14" id="194" />
+<TGConnectingPoint num="15" id="195" />
+<TGConnectingPoint num="16" id="196" />
+<TGConnectingPoint num="17" id="197" />
+<TGConnectingPoint num="18" id="198" />
+<TGConnectingPoint num="19" id="199" />
+<TGConnectingPoint num="20" id="200" />
+<TGConnectingPoint num="21" id="201" />
+<TGConnectingPoint num="22" id="202" />
+<TGConnectingPoint num="23" id="203" />
+<extraparam>
+<info description="The injected malicious code is executed, which allows the attacker to utilize the chip for unauthorized purposes like cryptocurrency mining or launching DDoS attacks." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="229" index="22" uid="9c64f5f7-e2f6-4527-acd0-28bbca2791d2" >
+<cdparam x="1228" y="310" />
+<sizeparam width="186" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="InfectedHardwareInsertion" />
+<new d="false" />
+<TGConnectingPoint num="0" id="205" />
+<TGConnectingPoint num="1" id="206" />
+<TGConnectingPoint num="2" id="207" />
+<TGConnectingPoint num="3" id="208" />
+<TGConnectingPoint num="4" id="209" />
+<TGConnectingPoint num="5" id="210" />
+<TGConnectingPoint num="6" id="211" />
+<TGConnectingPoint num="7" id="212" />
+<TGConnectingPoint num="8" id="213" />
+<TGConnectingPoint num="9" id="214" />
+<TGConnectingPoint num="10" id="215" />
+<TGConnectingPoint num="11" id="216" />
+<TGConnectingPoint num="12" id="217" />
+<TGConnectingPoint num="13" id="218" />
+<TGConnectingPoint num="14" id="219" />
+<TGConnectingPoint num="15" id="220" />
+<TGConnectingPoint num="16" id="221" />
+<TGConnectingPoint num="17" id="222" />
+<TGConnectingPoint num="18" id="223" />
+<TGConnectingPoint num="19" id="224" />
+<TGConnectingPoint num="20" id="225" />
+<TGConnectingPoint num="21" id="226" />
+<TGConnectingPoint num="22" id="227" />
+<TGConnectingPoint num="23" id="228" />
+<extraparam>
+<info description="An adversary inserts malicious logic in the form of a hardware component into Speedy Chip. This altered component can carry out crypto-mining operations secretly, utilizing the chip's high processing power without authorization." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1402" id="242" index="23" uid="3d976b9a-4fb7-4835-97e6-d52d2025ec49" >
+<cdparam x="1249" y="401" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;SEQUENCE&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="230" />
+<TGConnectingPoint num="1" id="231" />
+<TGConnectingPoint num="2" id="232" />
+<TGConnectingPoint num="3" id="233" />
+<TGConnectingPoint num="4" id="234" />
+<TGConnectingPoint num="5" id="235" />
+<TGConnectingPoint num="6" id="236" />
+<TGConnectingPoint num="7" id="237" />
+<TGConnectingPoint num="8" id="238" />
+<TGConnectingPoint num="9" id="239" />
+<TGConnectingPoint num="10" id="240" />
+<TGConnectingPoint num="11" id="241" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="267" index="24" uid="f2edfd1b-6892-473b-bac8-20b157792306" >
+<cdparam x="785" y="580" />
+<sizeparam width="168" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="AcquireTargetHardware" />
+<new d="false" />
+<TGConnectingPoint num="0" id="243" />
+<TGConnectingPoint num="1" id="244" />
+<TGConnectingPoint num="2" id="245" />
+<TGConnectingPoint num="3" id="246" />
+<TGConnectingPoint num="4" id="247" />
+<TGConnectingPoint num="5" id="248" />
+<TGConnectingPoint num="6" id="249" />
+<TGConnectingPoint num="7" id="250" />
+<TGConnectingPoint num="8" id="251" />
+<TGConnectingPoint num="9" id="252" />
+<TGConnectingPoint num="10" id="253" />
+<TGConnectingPoint num="11" id="254" />
+<TGConnectingPoint num="12" id="255" />
+<TGConnectingPoint num="13" id="256" />
+<TGConnectingPoint num="14" id="257" />
+<TGConnectingPoint num="15" id="258" />
+<TGConnectingPoint num="16" id="259" />
+<TGConnectingPoint num="17" id="260" />
+<TGConnectingPoint num="18" id="261" />
+<TGConnectingPoint num="19" id="262" />
+<TGConnectingPoint num="20" id="263" />
+<TGConnectingPoint num="21" id="264" />
+<TGConnectingPoint num="22" id="265" />
+<TGConnectingPoint num="23" id="266" />
+<extraparam>
+<info description="The attacker procures a piece of hardware that is compatible with the Speedy Chip systems." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="292" index="25" uid="cda36d23-b501-4319-b101-c7be642470d3" >
+<cdparam x="1002" y="580" />
+<sizeparam width="145" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="InsertMaliciousLogic" />
+<new d="false" />
+<TGConnectingPoint num="0" id="268" />
+<TGConnectingPoint num="1" id="269" />
+<TGConnectingPoint num="2" id="270" />
+<TGConnectingPoint num="3" id="271" />
+<TGConnectingPoint num="4" id="272" />
+<TGConnectingPoint num="5" id="273" />
+<TGConnectingPoint num="6" id="274" />
+<TGConnectingPoint num="7" id="275" />
+<TGConnectingPoint num="8" id="276" />
+<TGConnectingPoint num="9" id="277" />
+<TGConnectingPoint num="10" id="278" />
+<TGConnectingPoint num="11" id="279" />
+<TGConnectingPoint num="12" id="280" />
+<TGConnectingPoint num="13" id="281" />
+<TGConnectingPoint num="14" id="282" />
+<TGConnectingPoint num="15" id="283" />
+<TGConnectingPoint num="16" id="284" />
+<TGConnectingPoint num="17" id="285" />
+<TGConnectingPoint num="18" id="286" />
+<TGConnectingPoint num="19" id="287" />
+<TGConnectingPoint num="20" id="288" />
+<TGConnectingPoint num="21" id="289" />
+<TGConnectingPoint num="22" id="290" />
+<TGConnectingPoint num="23" id="291" />
+<extraparam>
+<info description="The attacker embeds malicious crypto-mining logic into the acquired hardware component." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="317" index="26" uid="d8fa6478-8143-4b5c-b884-f17ce33d1c36" >
+<cdparam x="1191" y="577" />
+<sizeparam width="175" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="BypassSecurityMeasures" />
+<new d="false" />
+<TGConnectingPoint num="0" id="293" />
+<TGConnectingPoint num="1" id="294" />
+<TGConnectingPoint num="2" id="295" />
+<TGConnectingPoint num="3" id="296" />
+<TGConnectingPoint num="4" id="297" />
+<TGConnectingPoint num="5" id="298" />
+<TGConnectingPoint num="6" id="299" />
+<TGConnectingPoint num="7" id="300" />
+<TGConnectingPoint num="8" id="301" />
+<TGConnectingPoint num="9" id="302" />
+<TGConnectingPoint num="10" id="303" />
+<TGConnectingPoint num="11" id="304" />
+<TGConnectingPoint num="12" id="305" />
+<TGConnectingPoint num="13" id="306" />
+<TGConnectingPoint num="14" id="307" />
+<TGConnectingPoint num="15" id="308" />
+<TGConnectingPoint num="16" id="309" />
+<TGConnectingPoint num="17" id="310" />
+<TGConnectingPoint num="18" id="311" />
+<TGConnectingPoint num="19" id="312" />
+<TGConnectingPoint num="20" id="313" />
+<TGConnectingPoint num="21" id="314" />
+<TGConnectingPoint num="22" id="315" />
+<TGConnectingPoint num="23" id="316" />
+<extraparam>
+<info description="The attacker devises methods to bypass any security protocols that could prevent the installation of the compromised component." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="342" index="27" uid="41ec696f-feb3-41c1-bad0-dca76c038bae" >
+<cdparam x="1415" y="580" />
+<sizeparam width="174" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="InstallMaliciousHardware" />
+<new d="false" />
+<TGConnectingPoint num="0" id="318" />
+<TGConnectingPoint num="1" id="319" />
+<TGConnectingPoint num="2" id="320" />
+<TGConnectingPoint num="3" id="321" />
+<TGConnectingPoint num="4" id="322" />
+<TGConnectingPoint num="5" id="323" />
+<TGConnectingPoint num="6" id="324" />
+<TGConnectingPoint num="7" id="325" />
+<TGConnectingPoint num="8" id="326" />
+<TGConnectingPoint num="9" id="327" />
+<TGConnectingPoint num="10" id="328" />
+<TGConnectingPoint num="11" id="329" />
+<TGConnectingPoint num="12" id="330" />
+<TGConnectingPoint num="13" id="331" />
+<TGConnectingPoint num="14" id="332" />
+<TGConnectingPoint num="15" id="333" />
+<TGConnectingPoint num="16" id="334" />
+<TGConnectingPoint num="17" id="335" />
+<TGConnectingPoint num="18" id="336" />
+<TGConnectingPoint num="19" id="337" />
+<TGConnectingPoint num="20" id="338" />
+<TGConnectingPoint num="21" id="339" />
+<TGConnectingPoint num="22" id="340" />
+<TGConnectingPoint num="23" id="341" />
+<extraparam>
+<info description="The compromised hardware is physically inserted into the Speedy Chip environment, completing the setup for crypto-mining operations." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="367" index="28" uid="1b37bbfd-b0ed-4879-a89e-249b0edccbda" >
+<cdparam x="1637" y="575" />
+<sizeparam width="118" height="40" minWidth="100" minHeight="1" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="MaintainStealth" />
+<new d="false" />
+<TGConnectingPoint num="0" id="343" />
+<TGConnectingPoint num="1" id="344" />
+<TGConnectingPoint num="2" id="345" />
+<TGConnectingPoint num="3" id="346" />
+<TGConnectingPoint num="4" id="347" />
+<TGConnectingPoint num="5" id="348" />
+<TGConnectingPoint num="6" id="349" />
+<TGConnectingPoint num="7" id="350" />
+<TGConnectingPoint num="8" id="351" />
+<TGConnectingPoint num="9" id="352" />
+<TGConnectingPoint num="10" id="353" />
+<TGConnectingPoint num="11" id="354" />
+<TGConnectingPoint num="12" id="355" />
+<TGConnectingPoint num="13" id="356" />
+<TGConnectingPoint num="14" id="357" />
+<TGConnectingPoint num="15" id="358" />
+<TGConnectingPoint num="16" id="359" />
+<TGConnectingPoint num="17" id="360" />
+<TGConnectingPoint num="18" id="361" />
+<TGConnectingPoint num="19" id="362" />
+<TGConnectingPoint num="20" id="363" />
+<TGConnectingPoint num="21" id="364" />
+<TGConnectingPoint num="22" id="365" />
+<TGConnectingPoint num="23" id="366" />
+<extraparam>
+<info description="The attacker takes measures to conceal the mining activity to avoid detection and prolong the mining operation." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+
+</AttackTreeDiagramPanel>
+
+</Modeling>
+
+
+
+
+</TURTLEGMODELING>

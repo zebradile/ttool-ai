@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TURTLEGMODELING version="3.0 beta" ANIMATE_INTERACTIVE_SIMULATION="false" ACTIVATE_PENALTIES="false" UPDATE_INFORMATION_DIPLO_SIM="false" ANIMATE_WITH_INFO_DIPLO_SIM="true" OPEN_DIAG_DIPLO_SIM="false" LAST_SELECTED_MAIN_TAB="1" LAST_SELECTED_SUB_TAB="0">
+
+<Modeling type="AttackTree" nameTab="StealUserData" >
+<AttackTreeDiagramPanel name="AttackTree" minX="10" maxX="2500" minY="10" maxY="1500" zoom="1.0" >
+<CONNECTOR type="133" id="2272" index="0" uid="d1de5dc3-1d4d-4a7d-b8fb-261f35a25aac" >
+<cdparam x="865" y="588" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2273" />
+<P1  x="865" y="588" id="2248" />
+<P2  x="769" y="496" id="2190" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2247" index="1" uid="d5838315-d25c-4df6-8368-6f9a20239731" >
+<cdparam x="799" y="588" />
+<sizeparam width="132" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="stealRootCredential" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2248" />
+<TGConnectingPoint num="1" id="2249" />
+<TGConnectingPoint num="2" id="2250" />
+<TGConnectingPoint num="3" id="2251" />
+<TGConnectingPoint num="4" id="2252" />
+<TGConnectingPoint num="5" id="2253" />
+<TGConnectingPoint num="6" id="2254" />
+<TGConnectingPoint num="7" id="2255" />
+<TGConnectingPoint num="8" id="2256" />
+<TGConnectingPoint num="9" id="2257" />
+<TGConnectingPoint num="10" id="2258" />
+<TGConnectingPoint num="11" id="2259" />
+<TGConnectingPoint num="12" id="2260" />
+<TGConnectingPoint num="13" id="2261" />
+<TGConnectingPoint num="14" id="2262" />
+<TGConnectingPoint num="15" id="2263" />
+<TGConnectingPoint num="16" id="2264" />
+<TGConnectingPoint num="17" id="2265" />
+<TGConnectingPoint num="18" id="2266" />
+<TGConnectingPoint num="19" id="2267" />
+<TGConnectingPoint num="20" id="2268" />
+<TGConnectingPoint num="21" id="2269" />
+<TGConnectingPoint num="22" id="2270" />
+<TGConnectingPoint num="23" id="2271" />
+<extraparam>
+<info description="Mostly by social engineering" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2245" index="2" uid="6726a097-7d48-4234-88f0-89ed7ee3a608" >
+<cdparam x="917" y="607" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2246" />
+<P1  x="732" y="664" id="2221" />
+<P2  x="732" y="496" id="2182" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2220" index="3" uid="a2d8ee37-d564-4017-9c94-a88af85e8986" >
+<cdparam x="624" y="664" />
+<sizeparam width="216" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="ExploitVulnerabilityToBecomeRoot" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2221" />
+<TGConnectingPoint num="1" id="2222" />
+<TGConnectingPoint num="2" id="2223" />
+<TGConnectingPoint num="3" id="2224" />
+<TGConnectingPoint num="4" id="2225" />
+<TGConnectingPoint num="5" id="2226" />
+<TGConnectingPoint num="6" id="2227" />
+<TGConnectingPoint num="7" id="2228" />
+<TGConnectingPoint num="8" id="2229" />
+<TGConnectingPoint num="9" id="2230" />
+<TGConnectingPoint num="10" id="2231" />
+<TGConnectingPoint num="11" id="2232" />
+<TGConnectingPoint num="12" id="2233" />
+<TGConnectingPoint num="13" id="2234" />
+<TGConnectingPoint num="14" id="2235" />
+<TGConnectingPoint num="15" id="2236" />
+<TGConnectingPoint num="16" id="2237" />
+<TGConnectingPoint num="17" id="2238" />
+<TGConnectingPoint num="18" id="2239" />
+<TGConnectingPoint num="19" id="2240" />
+<TGConnectingPoint num="20" id="2241" />
+<TGConnectingPoint num="21" id="2242" />
+<TGConnectingPoint num="22" id="2243" />
+<TGConnectingPoint num="23" id="2244" />
+<extraparam>
+<info description="Use CVE database to become aware of root attacks" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2218" index="4" uid="89383de5-0cb7-4d6f-8472-50f2bfd24098" >
+<cdparam x="638" y="604" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2219" />
+<P1  x="558" y="606" id="2194" />
+<P2  x="694" y="496" id="2189" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2193" index="5" uid="6770b18e-d280-4e81-a117-af30beb0fc7b" >
+<cdparam x="464" y="606" />
+<sizeparam width="188" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="addOSModuleAtOSProduction" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2194" />
+<TGConnectingPoint num="1" id="2195" />
+<TGConnectingPoint num="2" id="2196" />
+<TGConnectingPoint num="3" id="2197" />
+<TGConnectingPoint num="4" id="2198" />
+<TGConnectingPoint num="5" id="2199" />
+<TGConnectingPoint num="6" id="2200" />
+<TGConnectingPoint num="7" id="2201" />
+<TGConnectingPoint num="8" id="2202" />
+<TGConnectingPoint num="9" id="2203" />
+<TGConnectingPoint num="10" id="2204" />
+<TGConnectingPoint num="11" id="2205" />
+<TGConnectingPoint num="12" id="2206" />
+<TGConnectingPoint num="13" id="2207" />
+<TGConnectingPoint num="14" id="2208" />
+<TGConnectingPoint num="15" id="2209" />
+<TGConnectingPoint num="16" id="2210" />
+<TGConnectingPoint num="17" id="2211" />
+<TGConnectingPoint num="18" id="2212" />
+<TGConnectingPoint num="19" id="2213" />
+<TGConnectingPoint num="20" id="2214" />
+<TGConnectingPoint num="21" id="2215" />
+<TGConnectingPoint num="22" id="2216" />
+<TGConnectingPoint num="23" id="2217" />
+<extraparam>
+<info description="By hijacking the OS vendor server for instance" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2191" index="6" uid="64959613-ee90-47de-859d-2812c6def235" >
+<cdparam x="770" y="482" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2192" />
+<P1  x="732" y="446" id="2179" />
+<P2  x="731" y="381" id="1976" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1402" id="2178" index="7" uid="dcc7dac9-2685-4fd2-a790-7984c5f096e9" >
+<cdparam x="657" y="446" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;OR&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2179" />
+<TGConnectingPoint num="1" id="2180" />
+<TGConnectingPoint num="2" id="2181" />
+<TGConnectingPoint num="3" id="2182" />
+<TGConnectingPoint num="4" id="2183" />
+<TGConnectingPoint num="5" id="2184" />
+<TGConnectingPoint num="6" id="2185" />
+<TGConnectingPoint num="7" id="2186" />
+<TGConnectingPoint num="8" id="2187" />
+<TGConnectingPoint num="9" id="2188" />
+<TGConnectingPoint num="10" id="2189" />
+<TGConnectingPoint num="11" id="2190" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2176" index="8" uid="93d6ec32-36fb-4bee-b834-ced53dd842fe" >
+<cdparam x="509" y="631" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2177" />
+<P1  x="411" y="740" id="2152" />
+<P2  x="319" y="546" id="1971" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2151" index="9" uid="c6e34a37-4cff-4e86-97a8-e3ec1844d5dc" >
+<cdparam x="331" y="740" />
+<sizeparam width="161" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="PhysicallyConnectToRAM" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2152" />
+<TGConnectingPoint num="1" id="2153" />
+<TGConnectingPoint num="2" id="2154" />
+<TGConnectingPoint num="3" id="2155" />
+<TGConnectingPoint num="4" id="2156" />
+<TGConnectingPoint num="5" id="2157" />
+<TGConnectingPoint num="6" id="2158" />
+<TGConnectingPoint num="7" id="2159" />
+<TGConnectingPoint num="8" id="2160" />
+<TGConnectingPoint num="9" id="2161" />
+<TGConnectingPoint num="10" id="2162" />
+<TGConnectingPoint num="11" id="2163" />
+<TGConnectingPoint num="12" id="2164" />
+<TGConnectingPoint num="13" id="2165" />
+<TGConnectingPoint num="14" id="2166" />
+<TGConnectingPoint num="15" id="2167" />
+<TGConnectingPoint num="16" id="2168" />
+<TGConnectingPoint num="17" id="2169" />
+<TGConnectingPoint num="18" id="2170" />
+<TGConnectingPoint num="19" id="2171" />
+<TGConnectingPoint num="20" id="2172" />
+<TGConnectingPoint num="21" id="2173" />
+<TGConnectingPoint num="22" id="2174" />
+<TGConnectingPoint num="23" id="2175" />
+<extraparam>
+<info description="This means opening the cloud node, and connecting to the RAM dimm.
+This may include to freeze the RAM." root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2149" index="10" uid="ca4346ad-3a68-4de3-9df1-8be9e34df575" >
+<cdparam x="298" y="620" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2150" />
+<P1  x="281" y="668" id="2098" />
+<P2  x="282" y="546" id="1963" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="2147" index="11" uid="23c4df46-de7c-4065-b4a5-0ece838772fa" >
+<cdparam x="120" y="632" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2148" />
+<P1  x="158" y="736" id="2123" />
+<P2  x="244" y="546" id="1970" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2122" index="12" uid="fe30c846-ad41-465e-987f-2747b948c507" >
+<cdparam x="75" y="736" />
+<sizeparam width="167" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="getCloudNodeInformation" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2123" />
+<TGConnectingPoint num="1" id="2124" />
+<TGConnectingPoint num="2" id="2125" />
+<TGConnectingPoint num="3" id="2126" />
+<TGConnectingPoint num="4" id="2127" />
+<TGConnectingPoint num="5" id="2128" />
+<TGConnectingPoint num="6" id="2129" />
+<TGConnectingPoint num="7" id="2130" />
+<TGConnectingPoint num="8" id="2131" />
+<TGConnectingPoint num="9" id="2132" />
+<TGConnectingPoint num="10" id="2133" />
+<TGConnectingPoint num="11" id="2134" />
+<TGConnectingPoint num="12" id="2135" />
+<TGConnectingPoint num="13" id="2136" />
+<TGConnectingPoint num="14" id="2137" />
+<TGConnectingPoint num="15" id="2138" />
+<TGConnectingPoint num="16" id="2139" />
+<TGConnectingPoint num="17" id="2140" />
+<TGConnectingPoint num="18" id="2141" />
+<TGConnectingPoint num="19" id="2142" />
+<TGConnectingPoint num="20" id="2143" />
+<TGConnectingPoint num="21" id="2144" />
+<TGConnectingPoint num="22" id="2145" />
+<TGConnectingPoint num="23" id="2146" />
+<extraparam>
+<info description="Could be done by accessing to administrator's database" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="2097" index="13" uid="f1707717-7e55-478a-975f-1180151afb87" >
+<cdparam x="203" y="668" />
+<sizeparam width="156" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="getAccessToCloudNode" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2098" />
+<TGConnectingPoint num="1" id="2099" />
+<TGConnectingPoint num="2" id="2100" />
+<TGConnectingPoint num="3" id="2101" />
+<TGConnectingPoint num="4" id="2102" />
+<TGConnectingPoint num="5" id="2103" />
+<TGConnectingPoint num="6" id="2104" />
+<TGConnectingPoint num="7" id="2105" />
+<TGConnectingPoint num="8" id="2106" />
+<TGConnectingPoint num="9" id="2107" />
+<TGConnectingPoint num="10" id="2108" />
+<TGConnectingPoint num="11" id="2109" />
+<TGConnectingPoint num="12" id="2110" />
+<TGConnectingPoint num="13" id="2111" />
+<TGConnectingPoint num="14" id="2112" />
+<TGConnectingPoint num="15" id="2113" />
+<TGConnectingPoint num="16" id="2114" />
+<TGConnectingPoint num="17" id="2115" />
+<TGConnectingPoint num="18" id="2116" />
+<TGConnectingPoint num="19" id="2117" />
+<TGConnectingPoint num="20" id="2118" />
+<TGConnectingPoint num="21" id="2119" />
+<TGConnectingPoint num="22" id="2120" />
+<TGConnectingPoint num="23" id="2121" />
+<extraparam>
+<info description="Enter into the correct building and alley" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2095" index="14" uid="1b5d41a6-7391-4013-b20a-5970c6e137c1" >
+<cdparam x="264" y="504" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2096" />
+<P1  x="282" y="496" id="1960" />
+<P2  x="281" y="432" id="1936" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="2093" index="15" uid="065f66de-e3c1-48b1-8514-0ba5ea040830" >
+<cdparam x="1451" y="656" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2094" />
+<P1  x="1451" y="656" id="2069" />
+<P2  x="1315" y="595" id="2038" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2068" index="16" uid="e1496c8c-bcae-431d-b5a6-69447bf3f1a9" >
+<cdparam x="1401" y="656" />
+<sizeparam width="100" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="ThreatenUser" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2069" />
+<TGConnectingPoint num="1" id="2070" />
+<TGConnectingPoint num="2" id="2071" />
+<TGConnectingPoint num="3" id="2072" />
+<TGConnectingPoint num="4" id="2073" />
+<TGConnectingPoint num="5" id="2074" />
+<TGConnectingPoint num="6" id="2075" />
+<TGConnectingPoint num="7" id="2076" />
+<TGConnectingPoint num="8" id="2077" />
+<TGConnectingPoint num="9" id="2078" />
+<TGConnectingPoint num="10" id="2079" />
+<TGConnectingPoint num="11" id="2080" />
+<TGConnectingPoint num="12" id="2081" />
+<TGConnectingPoint num="13" id="2082" />
+<TGConnectingPoint num="14" id="2083" />
+<TGConnectingPoint num="15" id="2084" />
+<TGConnectingPoint num="16" id="2085" />
+<TGConnectingPoint num="17" id="2086" />
+<TGConnectingPoint num="18" id="2087" />
+<TGConnectingPoint num="19" id="2088" />
+<TGConnectingPoint num="20" id="2089" />
+<TGConnectingPoint num="21" id="2090" />
+<TGConnectingPoint num="22" id="2091" />
+<TGConnectingPoint num="23" id="2092" />
+<extraparam>
+<info description="Use physical user threatening to obtain user crendentials" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2066" index="17" uid="a3ef52a0-93ed-432a-bb6b-6a487316afc9" >
+<cdparam x="1130" y="648" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2067" />
+<P1  x="1130" y="648" id="2042" />
+<P2  x="1240" y="595" id="2037" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2041" index="18" uid="903d33d9-4072-4718-9154-3e3cec19e33b" >
+<cdparam x="1080" y="648" />
+<sizeparam width="100" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="Phishing" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2042" />
+<TGConnectingPoint num="1" id="2043" />
+<TGConnectingPoint num="2" id="2044" />
+<TGConnectingPoint num="3" id="2045" />
+<TGConnectingPoint num="4" id="2046" />
+<TGConnectingPoint num="5" id="2047" />
+<TGConnectingPoint num="6" id="2048" />
+<TGConnectingPoint num="7" id="2049" />
+<TGConnectingPoint num="8" id="2050" />
+<TGConnectingPoint num="9" id="2051" />
+<TGConnectingPoint num="10" id="2052" />
+<TGConnectingPoint num="11" id="2053" />
+<TGConnectingPoint num="12" id="2054" />
+<TGConnectingPoint num="13" id="2055" />
+<TGConnectingPoint num="14" id="2056" />
+<TGConnectingPoint num="15" id="2057" />
+<TGConnectingPoint num="16" id="2058" />
+<TGConnectingPoint num="17" id="2059" />
+<TGConnectingPoint num="18" id="2060" />
+<TGConnectingPoint num="19" id="2061" />
+<TGConnectingPoint num="20" id="2062" />
+<TGConnectingPoint num="21" id="2063" />
+<TGConnectingPoint num="22" id="2064" />
+<TGConnectingPoint num="23" id="2065" />
+<extraparam>
+<info description="Use phishing techniques to steal user credential" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2039" index="19" uid="186e6da2-14c3-403e-88f9-2daab0fc7191" >
+<cdparam x="1284" y="547" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2040" />
+<P1  x="1278" y="545" id="2027" />
+<P2  x="1278" y="473" id="2003" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1402" id="2026" index="20" uid="d409df3b-806c-428d-8adf-3757f63d4927" >
+<cdparam x="1203" y="545" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;OR&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2027" />
+<TGConnectingPoint num="1" id="2028" />
+<TGConnectingPoint num="2" id="2029" />
+<TGConnectingPoint num="3" id="2030" />
+<TGConnectingPoint num="4" id="2031" />
+<TGConnectingPoint num="5" id="2032" />
+<TGConnectingPoint num="6" id="2033" />
+<TGConnectingPoint num="7" id="2034" />
+<TGConnectingPoint num="8" id="2035" />
+<TGConnectingPoint num="9" id="2036" />
+<TGConnectingPoint num="10" id="2037" />
+<TGConnectingPoint num="11" id="2038" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2024" index="21" uid="981c9b26-801b-4452-8ea9-2e86876ff6d8" >
+<cdparam x="939" y="399" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2025" />
+<P1  x="1278" y="433" id="2000" />
+<P2  x="768" y="215" id="1929" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="1999" index="22" uid="6b25ac15-3d55-47c2-8e41-2e15c25dc2d8" >
+<cdparam x="1212" y="433" />
+<sizeparam width="132" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="StealUserCredential" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2000" />
+<TGConnectingPoint num="1" id="2001" />
+<TGConnectingPoint num="2" id="2002" />
+<TGConnectingPoint num="3" id="2003" />
+<TGConnectingPoint num="4" id="2004" />
+<TGConnectingPoint num="5" id="2005" />
+<TGConnectingPoint num="6" id="2006" />
+<TGConnectingPoint num="7" id="2007" />
+<TGConnectingPoint num="8" id="2008" />
+<TGConnectingPoint num="9" id="2009" />
+<TGConnectingPoint num="10" id="2010" />
+<TGConnectingPoint num="11" id="2011" />
+<TGConnectingPoint num="12" id="2012" />
+<TGConnectingPoint num="13" id="2013" />
+<TGConnectingPoint num="14" id="2014" />
+<TGConnectingPoint num="15" id="2015" />
+<TGConnectingPoint num="16" id="2016" />
+<TGConnectingPoint num="17" id="2017" />
+<TGConnectingPoint num="18" id="2018" />
+<TGConnectingPoint num="19" id="2019" />
+<TGConnectingPoint num="20" id="2020" />
+<TGConnectingPoint num="21" id="2021" />
+<TGConnectingPoint num="22" id="2022" />
+<TGConnectingPoint num="23" id="2023" />
+<extraparam>
+<info description="blah blah blah" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="1997" index="23" uid="0f269515-5e58-4d73-82c2-3d18b5f2c90d" >
+<cdparam x="927" y="330" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="1998" />
+<P1  x="731" y="341" id="1973" />
+<P2  x="731" y="215" id="1921" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="1972" index="24" uid="a5ddba21-5f33-4dab-b1f0-8748428e6faa" >
+<cdparam x="652" y="341" />
+<sizeparam width="158" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="PriviledgeEscalationInOS" />
+<new d="false" />
+<TGConnectingPoint num="0" id="1973" />
+<TGConnectingPoint num="1" id="1974" />
+<TGConnectingPoint num="2" id="1975" />
+<TGConnectingPoint num="3" id="1976" />
+<TGConnectingPoint num="4" id="1977" />
+<TGConnectingPoint num="5" id="1978" />
+<TGConnectingPoint num="6" id="1979" />
+<TGConnectingPoint num="7" id="1980" />
+<TGConnectingPoint num="8" id="1981" />
+<TGConnectingPoint num="9" id="1982" />
+<TGConnectingPoint num="10" id="1983" />
+<TGConnectingPoint num="11" id="1984" />
+<TGConnectingPoint num="12" id="1985" />
+<TGConnectingPoint num="13" id="1986" />
+<TGConnectingPoint num="14" id="1987" />
+<TGConnectingPoint num="15" id="1988" />
+<TGConnectingPoint num="16" id="1989" />
+<TGConnectingPoint num="17" id="1990" />
+<TGConnectingPoint num="18" id="1991" />
+<TGConnectingPoint num="19" id="1992" />
+<TGConnectingPoint num="20" id="1993" />
+<TGConnectingPoint num="21" id="1994" />
+<TGConnectingPoint num="22" id="1995" />
+<TGConnectingPoint num="23" id="1996" />
+<extraparam>
+<info description="blah blah blah" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1402" id="1959" index="25" uid="c4b8e3b5-9f60-4ddb-9cdf-eac4251c20ad" >
+<cdparam x="207" y="496" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;SEQUENCE&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="1960" />
+<TGConnectingPoint num="1" id="1961" />
+<TGConnectingPoint num="2" id="1962" />
+<TGConnectingPoint num="3" id="1963" />
+<TGConnectingPoint num="4" id="1964" />
+<TGConnectingPoint num="5" id="1965" />
+<TGConnectingPoint num="6" id="1966" />
+<TGConnectingPoint num="7" id="1967" />
+<TGConnectingPoint num="8" id="1968" />
+<TGConnectingPoint num="9" id="1969" />
+<TGConnectingPoint num="10" id="1970" />
+<TGConnectingPoint num="11" id="1971" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="1957" index="26" uid="e7a84bc6-8292-40c1-ac37-29cdf39fb546" >
+<cdparam x="337" y="327" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="1958" />
+<P1  x="281" y="392" id="1933" />
+<P2  x="693" y="215" id="1928" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="1932" index="27" uid="19e49c9d-de96-432e-ab24-c5b78b4a1a66" >
+<cdparam x="218" y="392" />
+<sizeparam width="127" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="stealDatafromRAM" />
+<new d="false" />
+<TGConnectingPoint num="0" id="1933" />
+<TGConnectingPoint num="1" id="1934" />
+<TGConnectingPoint num="2" id="1935" />
+<TGConnectingPoint num="3" id="1936" />
+<TGConnectingPoint num="4" id="1937" />
+<TGConnectingPoint num="5" id="1938" />
+<TGConnectingPoint num="6" id="1939" />
+<TGConnectingPoint num="7" id="1940" />
+<TGConnectingPoint num="8" id="1941" />
+<TGConnectingPoint num="9" id="1942" />
+<TGConnectingPoint num="10" id="1943" />
+<TGConnectingPoint num="11" id="1944" />
+<TGConnectingPoint num="12" id="1945" />
+<TGConnectingPoint num="13" id="1946" />
+<TGConnectingPoint num="14" id="1947" />
+<TGConnectingPoint num="15" id="1948" />
+<TGConnectingPoint num="16" id="1949" />
+<TGConnectingPoint num="17" id="1950" />
+<TGConnectingPoint num="18" id="1951" />
+<TGConnectingPoint num="19" id="1952" />
+<TGConnectingPoint num="20" id="1953" />
+<TGConnectingPoint num="21" id="1954" />
+<TGConnectingPoint num="22" id="1955" />
+<TGConnectingPoint num="23" id="1956" />
+<extraparam>
+<info description="blah blah blah" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="1930" index="28" uid="aeb1711b-9553-4459-b8a2-523ba97058d0" >
+<cdparam x="731" y="165" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="1931" />
+<P1  x="731" y="165" id="1918" />
+<P2  x="730" y="95" id="1896" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1402" id="1917" index="29" uid="c2911aa8-1d9c-4872-9acd-a1709e689ac7" >
+<cdparam x="656" y="165" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;OR&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="1918" />
+<TGConnectingPoint num="1" id="1919" />
+<TGConnectingPoint num="2" id="1920" />
+<TGConnectingPoint num="3" id="1921" />
+<TGConnectingPoint num="4" id="1922" />
+<TGConnectingPoint num="5" id="1923" />
+<TGConnectingPoint num="6" id="1924" />
+<TGConnectingPoint num="7" id="1925" />
+<TGConnectingPoint num="8" id="1926" />
+<TGConnectingPoint num="9" id="1927" />
+<TGConnectingPoint num="10" id="1928" />
+<TGConnectingPoint num="11" id="1929" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="1892" index="30" uid="0ea652b0-1a7a-4b0e-9518-ab6f669e3825" >
+<cdparam x="680" y="55" />
+<sizeparam width="100" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="StealUserData" />
+<new d="false" />
+<TGConnectingPoint num="0" id="1893" />
+<TGConnectingPoint num="1" id="1894" />
+<TGConnectingPoint num="2" id="1895" />
+<TGConnectingPoint num="3" id="1896" />
+<TGConnectingPoint num="4" id="1897" />
+<TGConnectingPoint num="5" id="1898" />
+<TGConnectingPoint num="6" id="1899" />
+<TGConnectingPoint num="7" id="1900" />
+<TGConnectingPoint num="8" id="1901" />
+<TGConnectingPoint num="9" id="1902" />
+<TGConnectingPoint num="10" id="1903" />
+<TGConnectingPoint num="11" id="1904" />
+<TGConnectingPoint num="12" id="1905" />
+<TGConnectingPoint num="13" id="1906" />
+<TGConnectingPoint num="14" id="1907" />
+<TGConnectingPoint num="15" id="1908" />
+<TGConnectingPoint num="16" id="1909" />
+<TGConnectingPoint num="17" id="1910" />
+<TGConnectingPoint num="18" id="1911" />
+<TGConnectingPoint num="19" id="1912" />
+<TGConnectingPoint num="20" id="1913" />
+<TGConnectingPoint num="21" id="1914" />
+<TGConnectingPoint num="22" id="1915" />
+<TGConnectingPoint num="23" id="1916" />
+<extraparam>
+<info description="blah blah blah" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+
+</AttackTreeDiagramPanel>
+
+</Modeling>
+
+
+
+
+<Modeling type="AttackTree" nameTab="DisruptCloudFunctioning" >
+<AttackTreeDiagramPanel name="AttackTree" minX="10" maxX="2500" minY="10" maxY="1500" zoom="1.0" >
+<CONNECTOR type="133" id="2627" index="0" uid="b09aee9f-8530-4cb2-8cef-5bf8075c5a84" >
+<cdparam x="1433" y="549" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2628" />
+<P1  x="1509" y="549" id="2601" />
+<P2  x="1317" y="479" id="2572" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<CONNECTOR type="133" id="2625" index="1" uid="a3d07729-0d62-4e65-8906-e650ae65673f" >
+<cdparam x="1138" y="552" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2626" />
+<P1  x="1191" y="552" id="2576" />
+<P2  x="1242" y="479" id="2571" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2600" index="2" uid="92adf9c9-7a50-46f4-a2a1-5415229bf475" >
+<cdparam x="1383" y="549" />
+<sizeparam width="253" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="changePowerManahgementConfiguration" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2601" />
+<TGConnectingPoint num="1" id="2602" />
+<TGConnectingPoint num="2" id="2603" />
+<TGConnectingPoint num="3" id="2604" />
+<TGConnectingPoint num="4" id="2605" />
+<TGConnectingPoint num="5" id="2606" />
+<TGConnectingPoint num="6" id="2607" />
+<TGConnectingPoint num="7" id="2608" />
+<TGConnectingPoint num="8" id="2609" />
+<TGConnectingPoint num="9" id="2610" />
+<TGConnectingPoint num="10" id="2611" />
+<TGConnectingPoint num="11" id="2612" />
+<TGConnectingPoint num="12" id="2613" />
+<TGConnectingPoint num="13" id="2614" />
+<TGConnectingPoint num="14" id="2615" />
+<TGConnectingPoint num="15" id="2616" />
+<TGConnectingPoint num="16" id="2617" />
+<TGConnectingPoint num="17" id="2618" />
+<TGConnectingPoint num="18" id="2619" />
+<TGConnectingPoint num="19" id="2620" />
+<TGConnectingPoint num="20" id="2621" />
+<TGConnectingPoint num="21" id="2622" />
+<TGConnectingPoint num="22" id="2623" />
+<TGConnectingPoint num="23" id="2624" />
+<extraparam>
+<info description="This includes shutting down the power, 
+and changing its configuration so that computing nodes
+start crashing" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="2575" index="3" uid="61828b6d-8492-4bc8-a1d3-af0d4ca37287" >
+<cdparam x="1088" y="552" />
+<sizeparam width="207" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="logIntoPowerManagementSystem" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2576" />
+<TGConnectingPoint num="1" id="2577" />
+<TGConnectingPoint num="2" id="2578" />
+<TGConnectingPoint num="3" id="2579" />
+<TGConnectingPoint num="4" id="2580" />
+<TGConnectingPoint num="5" id="2581" />
+<TGConnectingPoint num="6" id="2582" />
+<TGConnectingPoint num="7" id="2583" />
+<TGConnectingPoint num="8" id="2584" />
+<TGConnectingPoint num="9" id="2585" />
+<TGConnectingPoint num="10" id="2586" />
+<TGConnectingPoint num="11" id="2587" />
+<TGConnectingPoint num="12" id="2588" />
+<TGConnectingPoint num="13" id="2589" />
+<TGConnectingPoint num="14" id="2590" />
+<TGConnectingPoint num="15" id="2591" />
+<TGConnectingPoint num="16" id="2592" />
+<TGConnectingPoint num="17" id="2593" />
+<TGConnectingPoint num="18" id="2594" />
+<TGConnectingPoint num="19" id="2595" />
+<TGConnectingPoint num="20" id="2596" />
+<TGConnectingPoint num="21" id="2597" />
+<TGConnectingPoint num="22" id="2598" />
+<TGConnectingPoint num="23" id="2599" />
+<extraparam>
+<info description="Using social engineering or exploit" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2573" index="4" uid="55dc04c7-bf48-40de-8233-f13d55111997" >
+<cdparam x="1321" y="447" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2574" />
+<P1  x="1280" y="429" id="2561" />
+<P2  x="1280" y="377" id="2537" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1402" id="2560" index="5" uid="4460fa0e-c34d-4af7-88b4-f6c264f02647" >
+<cdparam x="1205" y="429" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;AND&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2561" />
+<TGConnectingPoint num="1" id="2562" />
+<TGConnectingPoint num="2" id="2563" />
+<TGConnectingPoint num="3" id="2564" />
+<TGConnectingPoint num="4" id="2565" />
+<TGConnectingPoint num="5" id="2566" />
+<TGConnectingPoint num="6" id="2567" />
+<TGConnectingPoint num="7" id="2568" />
+<TGConnectingPoint num="8" id="2569" />
+<TGConnectingPoint num="9" id="2570" />
+<TGConnectingPoint num="10" id="2571" />
+<TGConnectingPoint num="11" id="2572" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2558" index="6" uid="d98944e9-efc3-4669-a87c-86cff4a9575e" >
+<cdparam x="1269" y="337" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2559" />
+<P1  x="1280" y="337" id="2534" />
+<P2  x="874" y="191" id="2309" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2533" index="7" uid="5d49279f-1d4d-4c77-a120-2b0ebb589eab" >
+<cdparam x="1213" y="337" />
+<sizeparam width="134" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="disruptPowerSource" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2534" />
+<TGConnectingPoint num="1" id="2535" />
+<TGConnectingPoint num="2" id="2536" />
+<TGConnectingPoint num="3" id="2537" />
+<TGConnectingPoint num="4" id="2538" />
+<TGConnectingPoint num="5" id="2539" />
+<TGConnectingPoint num="6" id="2540" />
+<TGConnectingPoint num="7" id="2541" />
+<TGConnectingPoint num="8" id="2542" />
+<TGConnectingPoint num="9" id="2543" />
+<TGConnectingPoint num="10" id="2544" />
+<TGConnectingPoint num="11" id="2545" />
+<TGConnectingPoint num="12" id="2546" />
+<TGConnectingPoint num="13" id="2547" />
+<TGConnectingPoint num="14" id="2548" />
+<TGConnectingPoint num="15" id="2549" />
+<TGConnectingPoint num="16" id="2550" />
+<TGConnectingPoint num="17" id="2551" />
+<TGConnectingPoint num="18" id="2552" />
+<TGConnectingPoint num="19" id="2553" />
+<TGConnectingPoint num="20" id="2554" />
+<TGConnectingPoint num="21" id="2555" />
+<TGConnectingPoint num="22" id="2556" />
+<TGConnectingPoint num="23" id="2557" />
+<extraparam>
+<info description="Find how the power source is obtained, and
+figure out if power source is controlled by IT" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2531" index="8" uid="2ac86f31-f7bd-4596-b9a5-6674f5db5802" >
+<cdparam x="956" y="553" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2532" />
+<P1  x="882" y="552" id="2507" />
+<P2  x="837" y="476" id="2476" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2506" index="9" uid="185491e8-36fc-4dc8-b598-99e6a03b7dd5" >
+<cdparam x="801" y="552" />
+<sizeparam width="162" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="useRemoteAccessExploit" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2507" />
+<TGConnectingPoint num="1" id="2508" />
+<TGConnectingPoint num="2" id="2509" />
+<TGConnectingPoint num="3" id="2510" />
+<TGConnectingPoint num="4" id="2511" />
+<TGConnectingPoint num="5" id="2512" />
+<TGConnectingPoint num="6" id="2513" />
+<TGConnectingPoint num="7" id="2514" />
+<TGConnectingPoint num="8" id="2515" />
+<TGConnectingPoint num="9" id="2516" />
+<TGConnectingPoint num="10" id="2517" />
+<TGConnectingPoint num="11" id="2518" />
+<TGConnectingPoint num="12" id="2519" />
+<TGConnectingPoint num="13" id="2520" />
+<TGConnectingPoint num="14" id="2521" />
+<TGConnectingPoint num="15" id="2522" />
+<TGConnectingPoint num="16" id="2523" />
+<TGConnectingPoint num="17" id="2524" />
+<TGConnectingPoint num="18" id="2525" />
+<TGConnectingPoint num="19" id="2526" />
+<TGConnectingPoint num="20" id="2527" />
+<TGConnectingPoint num="21" id="2528" />
+<TGConnectingPoint num="22" id="2529" />
+<TGConnectingPoint num="23" id="2530" />
+<extraparam>
+<info description="By knowing the remote Os and re-using or developing remote login
+exploit code" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2504" index="10" uid="9bb1543b-cd51-4305-98e5-eb7331fa1218" >
+<cdparam x="696" y="535" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2505" />
+<P1  x="687" y="555" id="2480" />
+<P2  x="762" y="476" id="2475" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2479" index="11" uid="31eb658d-26a4-4ea0-bc8b-980a8c0ef0d9" >
+<cdparam x="634" y="555" />
+<sizeparam width="106" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="stealCredential" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2480" />
+<TGConnectingPoint num="1" id="2481" />
+<TGConnectingPoint num="2" id="2482" />
+<TGConnectingPoint num="3" id="2483" />
+<TGConnectingPoint num="4" id="2484" />
+<TGConnectingPoint num="5" id="2485" />
+<TGConnectingPoint num="6" id="2486" />
+<TGConnectingPoint num="7" id="2487" />
+<TGConnectingPoint num="8" id="2488" />
+<TGConnectingPoint num="9" id="2489" />
+<TGConnectingPoint num="10" id="2490" />
+<TGConnectingPoint num="11" id="2491" />
+<TGConnectingPoint num="12" id="2492" />
+<TGConnectingPoint num="13" id="2493" />
+<TGConnectingPoint num="14" id="2494" />
+<TGConnectingPoint num="15" id="2495" />
+<TGConnectingPoint num="16" id="2496" />
+<TGConnectingPoint num="17" id="2497" />
+<TGConnectingPoint num="18" id="2498" />
+<TGConnectingPoint num="19" id="2499" />
+<TGConnectingPoint num="20" id="2500" />
+<TGConnectingPoint num="21" id="2501" />
+<TGConnectingPoint num="22" id="2502" />
+<TGConnectingPoint num="23" id="2503" />
+<extraparam>
+<info description="typically, by social engineering" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2477" index="12" uid="d0ae1d45-b7f3-4f1b-b149-58d75d753b3c" >
+<cdparam x="809" y="435" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2478" />
+<P1  x="800" y="426" id="2465" />
+<P2  x="800" y="371" id="2441" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1402" id="2464" index="13" uid="039a7f17-fd99-4dd5-a16f-d4b440a2554f" >
+<cdparam x="725" y="426" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;OR&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2465" />
+<TGConnectingPoint num="1" id="2466" />
+<TGConnectingPoint num="2" id="2467" />
+<TGConnectingPoint num="3" id="2468" />
+<TGConnectingPoint num="4" id="2469" />
+<TGConnectingPoint num="5" id="2470" />
+<TGConnectingPoint num="6" id="2471" />
+<TGConnectingPoint num="7" id="2472" />
+<TGConnectingPoint num="8" id="2473" />
+<TGConnectingPoint num="9" id="2474" />
+<TGConnectingPoint num="10" id="2475" />
+<TGConnectingPoint num="11" id="2476" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2462" index="14" uid="afa87a47-0e1b-4619-9b6f-1c23add43c23" >
+<cdparam x="808" y="331" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2463" />
+<P1  x="800" y="331" id="2438" />
+<P2  x="799" y="204" id="2303" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2437" index="15" uid="ce42a1f1-e581-4273-ad3c-4e84bccb0e49" >
+<cdparam x="665" y="331" />
+<sizeparam width="270" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="installRansomwareOnAdministrativeConsole" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2438" />
+<TGConnectingPoint num="1" id="2439" />
+<TGConnectingPoint num="2" id="2440" />
+<TGConnectingPoint num="3" id="2441" />
+<TGConnectingPoint num="4" id="2442" />
+<TGConnectingPoint num="5" id="2443" />
+<TGConnectingPoint num="6" id="2444" />
+<TGConnectingPoint num="7" id="2445" />
+<TGConnectingPoint num="8" id="2446" />
+<TGConnectingPoint num="9" id="2447" />
+<TGConnectingPoint num="10" id="2448" />
+<TGConnectingPoint num="11" id="2449" />
+<TGConnectingPoint num="12" id="2450" />
+<TGConnectingPoint num="13" id="2451" />
+<TGConnectingPoint num="14" id="2452" />
+<TGConnectingPoint num="15" id="2453" />
+<TGConnectingPoint num="16" id="2454" />
+<TGConnectingPoint num="17" id="2455" />
+<TGConnectingPoint num="18" id="2456" />
+<TGConnectingPoint num="19" id="2457" />
+<TGConnectingPoint num="20" id="2458" />
+<TGConnectingPoint num="21" id="2459" />
+<TGConnectingPoint num="22" id="2460" />
+<TGConnectingPoint num="23" id="2461" />
+<extraparam>
+<info description="blah blah blah" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2435" index="16" uid="d340d4a1-87f9-49e8-b53b-581177b67f35" >
+<cdparam x="501" y="560" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2436" />
+<P1  x="501" y="560" id="2411" />
+<P2  x="307" y="465" id="2353" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2410" index="17" uid="16a2d882-6da0-45d9-89e8-656eae4c9e82" >
+<cdparam x="417" y="560" />
+<sizeparam width="168" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="useSmartTrafficGenerator" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2411" />
+<TGConnectingPoint num="1" id="2412" />
+<TGConnectingPoint num="2" id="2413" />
+<TGConnectingPoint num="3" id="2414" />
+<TGConnectingPoint num="4" id="2415" />
+<TGConnectingPoint num="5" id="2416" />
+<TGConnectingPoint num="6" id="2417" />
+<TGConnectingPoint num="7" id="2418" />
+<TGConnectingPoint num="8" id="2419" />
+<TGConnectingPoint num="9" id="2420" />
+<TGConnectingPoint num="10" id="2421" />
+<TGConnectingPoint num="11" id="2422" />
+<TGConnectingPoint num="12" id="2423" />
+<TGConnectingPoint num="13" id="2424" />
+<TGConnectingPoint num="14" id="2425" />
+<TGConnectingPoint num="15" id="2426" />
+<TGConnectingPoint num="16" id="2427" />
+<TGConnectingPoint num="17" id="2428" />
+<TGConnectingPoint num="18" id="2429" />
+<TGConnectingPoint num="19" id="2430" />
+<TGConnectingPoint num="20" id="2431" />
+<TGConnectingPoint num="21" id="2432" />
+<TGConnectingPoint num="22" id="2433" />
+<TGConnectingPoint num="23" id="2434" />
+<extraparam>
+<info description="traffic should be generated in a smartway so that
+generated nodes are not blacklisted" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2408" index="18" uid="4f0a64bd-253e-471a-8b36-f07464327701" >
+<cdparam x="329" y="563" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2409" />
+<P1  x="270" y="558" id="2384" />
+<P2  x="270" y="465" id="2345" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2383" index="19" uid="9170c8ea-8f54-4484-890a-a8594c76e2b0" >
+<cdparam x="184" y="558" />
+<sizeparam width="173" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="gatherNetworkEquipments" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2384" />
+<TGConnectingPoint num="1" id="2385" />
+<TGConnectingPoint num="2" id="2386" />
+<TGConnectingPoint num="3" id="2387" />
+<TGConnectingPoint num="4" id="2388" />
+<TGConnectingPoint num="5" id="2389" />
+<TGConnectingPoint num="6" id="2390" />
+<TGConnectingPoint num="7" id="2391" />
+<TGConnectingPoint num="8" id="2392" />
+<TGConnectingPoint num="9" id="2393" />
+<TGConnectingPoint num="10" id="2394" />
+<TGConnectingPoint num="11" id="2395" />
+<TGConnectingPoint num="12" id="2396" />
+<TGConnectingPoint num="13" id="2397" />
+<TGConnectingPoint num="14" id="2398" />
+<TGConnectingPoint num="15" id="2399" />
+<TGConnectingPoint num="16" id="2400" />
+<TGConnectingPoint num="17" id="2401" />
+<TGConnectingPoint num="18" id="2402" />
+<TGConnectingPoint num="19" id="2403" />
+<TGConnectingPoint num="20" id="2404" />
+<TGConnectingPoint num="21" id="2405" />
+<TGConnectingPoint num="22" id="2406" />
+<TGConnectingPoint num="23" id="2407" />
+<extraparam>
+<info description="The DDoS could rely on the use of botnets" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2381" index="20" uid="84d372c0-dd45-4dc8-a967-a887b6f8e09d" >
+<cdparam x="129" y="556" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2382" />
+<P1  x="97" y="556" id="2357" />
+<P2  x="232" y="465" id="2352" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2356" index="21" uid="59f625a2-e30b-4770-94cb-31b50163aa2f" >
+<cdparam x="36" y="556" />
+<sizeparam width="123" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="getcloudCenterIPs" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2357" />
+<TGConnectingPoint num="1" id="2358" />
+<TGConnectingPoint num="2" id="2359" />
+<TGConnectingPoint num="3" id="2360" />
+<TGConnectingPoint num="4" id="2361" />
+<TGConnectingPoint num="5" id="2362" />
+<TGConnectingPoint num="6" id="2363" />
+<TGConnectingPoint num="7" id="2364" />
+<TGConnectingPoint num="8" id="2365" />
+<TGConnectingPoint num="9" id="2366" />
+<TGConnectingPoint num="10" id="2367" />
+<TGConnectingPoint num="11" id="2368" />
+<TGConnectingPoint num="12" id="2369" />
+<TGConnectingPoint num="13" id="2370" />
+<TGConnectingPoint num="14" id="2371" />
+<TGConnectingPoint num="15" id="2372" />
+<TGConnectingPoint num="16" id="2373" />
+<TGConnectingPoint num="17" id="2374" />
+<TGConnectingPoint num="18" id="2375" />
+<TGConnectingPoint num="19" id="2376" />
+<TGConnectingPoint num="20" id="2377" />
+<TGConnectingPoint num="21" id="2378" />
+<TGConnectingPoint num="22" id="2379" />
+<TGConnectingPoint num="23" id="2380" />
+<extraparam>
+<info description="Find the Internet adresses related to the cloud service" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2354" index="22" uid="52535b83-abd7-47b6-905d-ea1adf739697" >
+<cdparam x="261" y="421" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2355" />
+<P1  x="270" y="415" id="2342" />
+<P2  x="270" y="370" id="2318" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1402" id="2341" index="23" uid="8c3e7a6e-0ecd-44ba-a5ee-6adf337c12db" >
+<cdparam x="195" y="415" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;AND&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2342" />
+<TGConnectingPoint num="1" id="2343" />
+<TGConnectingPoint num="2" id="2344" />
+<TGConnectingPoint num="3" id="2345" />
+<TGConnectingPoint num="4" id="2346" />
+<TGConnectingPoint num="5" id="2347" />
+<TGConnectingPoint num="6" id="2348" />
+<TGConnectingPoint num="7" id="2349" />
+<TGConnectingPoint num="8" id="2350" />
+<TGConnectingPoint num="9" id="2351" />
+<TGConnectingPoint num="10" id="2352" />
+<TGConnectingPoint num="11" id="2353" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2339" index="24" uid="7eb771d6-e03b-4aaf-90f3-34f3096997a9" >
+<cdparam x="322" y="315" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2340" />
+<P1  x="270" y="330" id="2315" />
+<P2  x="724" y="191" id="2308" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1401" id="2314" index="25" uid="7f51a2c5-43ab-47d9-92dd-e5158d3c1232" >
+<cdparam x="220" y="330" />
+<sizeparam width="100" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="performDDos" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2315" />
+<TGConnectingPoint num="1" id="2316" />
+<TGConnectingPoint num="2" id="2317" />
+<TGConnectingPoint num="3" id="2318" />
+<TGConnectingPoint num="4" id="2319" />
+<TGConnectingPoint num="5" id="2320" />
+<TGConnectingPoint num="6" id="2321" />
+<TGConnectingPoint num="7" id="2322" />
+<TGConnectingPoint num="8" id="2323" />
+<TGConnectingPoint num="9" id="2324" />
+<TGConnectingPoint num="10" id="2325" />
+<TGConnectingPoint num="11" id="2326" />
+<TGConnectingPoint num="12" id="2327" />
+<TGConnectingPoint num="13" id="2328" />
+<TGConnectingPoint num="14" id="2329" />
+<TGConnectingPoint num="15" id="2330" />
+<TGConnectingPoint num="16" id="2331" />
+<TGConnectingPoint num="17" id="2332" />
+<TGConnectingPoint num="18" id="2333" />
+<TGConnectingPoint num="19" id="2334" />
+<TGConnectingPoint num="20" id="2335" />
+<TGConnectingPoint num="21" id="2336" />
+<TGConnectingPoint num="22" id="2337" />
+<TGConnectingPoint num="23" id="2338" />
+<extraparam>
+<info description="By flooding the access network to the different cloud centers" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+<CONNECTOR type="133" id="2312" index="26" uid="9d343eb0-688c-4a30-833a-dd268b6ef12f" >
+<cdparam x="805" y="163" />
+<sizeparam width="0" height="0" minWidth="0" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<infoparam name="connector" value="" />
+<TGConnectingPoint num="0" id="2313" />
+<P1  x="799" y="154" id="2300" />
+<P2  x="799" y="98" id="2278" />
+<AutomaticDrawing  data="true" />
+<new d="false" />
+</CONNECTOR>
+<COMPONENT type="1402" id="2299" index="27" uid="45abca99-f080-484a-95fd-62a64cda9cdb" >
+<cdparam x="724" y="154" />
+<sizeparam width="150" height="50" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="&lt;&lt;OR&gt;&gt;" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2300" />
+<TGConnectingPoint num="1" id="2301" />
+<TGConnectingPoint num="2" id="2302" />
+<TGConnectingPoint num="3" id="2303" />
+<TGConnectingPoint num="4" id="2304" />
+<TGConnectingPoint num="5" id="2305" />
+<TGConnectingPoint num="6" id="2306" />
+<TGConnectingPoint num="7" id="2307" />
+<TGConnectingPoint num="8" id="2308" />
+<TGConnectingPoint num="9" id="2309" />
+<TGConnectingPoint num="10" id="2310" />
+<TGConnectingPoint num="11" id="2311" />
+<extraparam>
+<info equation="" />
+</extraparam>
+</COMPONENT>
+
+<COMPONENT type="1401" id="2274" index="28" uid="91ff1a2e-97e5-462a-86e6-1bbb4ff9d7fc" >
+<cdparam x="720" y="58" />
+<sizeparam width="158" height="40" minWidth="100" minHeight="0" maxWidth="2000" maxHeight="2000" minDesiredWidth="0" minDesiredHeight="0" />
+<hidden value="false" />
+<enabled value="true" />
+<cdrectangleparam minX="10" maxX="2500" minY="10" maxY="1500" />
+<infoparam name="TGComponent" value="disruptCloudFunctioning" />
+<new d="false" />
+<TGConnectingPoint num="0" id="2275" />
+<TGConnectingPoint num="1" id="2276" />
+<TGConnectingPoint num="2" id="2277" />
+<TGConnectingPoint num="3" id="2278" />
+<TGConnectingPoint num="4" id="2279" />
+<TGConnectingPoint num="5" id="2280" />
+<TGConnectingPoint num="6" id="2281" />
+<TGConnectingPoint num="7" id="2282" />
+<TGConnectingPoint num="8" id="2283" />
+<TGConnectingPoint num="9" id="2284" />
+<TGConnectingPoint num="10" id="2285" />
+<TGConnectingPoint num="11" id="2286" />
+<TGConnectingPoint num="12" id="2287" />
+<TGConnectingPoint num="13" id="2288" />
+<TGConnectingPoint num="14" id="2289" />
+<TGConnectingPoint num="15" id="2290" />
+<TGConnectingPoint num="16" id="2291" />
+<TGConnectingPoint num="17" id="2292" />
+<TGConnectingPoint num="18" id="2293" />
+<TGConnectingPoint num="19" id="2294" />
+<TGConnectingPoint num="20" id="2295" />
+<TGConnectingPoint num="21" id="2296" />
+<TGConnectingPoint num="22" id="2297" />
+<TGConnectingPoint num="23" id="2298" />
+<extraparam>
+<info description="Make the cloud non functional, leading to financial loss" root="false" cost="0" experience="0" />
+</extraparam>
+</COMPONENT>
+
+
+</AttackTreeDiagramPanel>
+
+</Modeling>
+
+
+
+
+</TURTLEGMODELING>
