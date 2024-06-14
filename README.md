@@ -31,10 +31,11 @@ Once the blocks have been determined, click on "apply response", and close the A
 
 Since ChatGPT is based on randomness to produce the results, it is very likely you will get results different from ours. Try several times to figure out the differences you may obtain.
 
+
 # Incoherency detection and correction
 
-- Go to incoherencies directory
-- There, there are 3 .xml files to be opened with TTool. Do configure TTool as explained before in the "model generation" section
+- Go to "incoherencies" directory
+- There, there are 3 .xml files to be opened with TTool. Do configure TTool as explained before in the "model generation" section.
 
  ## Model content
  Each file contains 2 block diagrams (BD) and 2 Use case diagrams (UCD) automatically generated using the system specification. They also contain the  models corrected thansk to the detection of incoherencies. These incoherencies are given in the updated models.
@@ -50,7 +51,7 @@ Select a block diagram (BD1 or BD2), make a right click, "to textual format". Do
 Now, open the AI window (use the icon on the right depicting a brain), then select "Identify incoherencies". In the question box, put:
 - specification: the specification of the system
 - Diagram1: Use case diagram. There, paste the textual format of the UCD you have selected before
-- Diagram2: Block diagram. There, paste the textual format of the BD you have selected just before.
+- Diagram2: Block diagram. There, paste the textual format of the BD you have selected just before
 
 The question box should now contain the system specification, then the textual description of the UCD, then the textual description of the BD. Now, click on "start". If TTool was able to exchange with ChatGPT, then you should obtain a list of incoherencies, that could look like this:
 
@@ -103,11 +104,11 @@ Imagine that you now wish to update the block diagram considering these inconsis
 - the following text, taken from incoherencies:
 ```
 Do correct the block diagram considering the following incoherencies:
-1. Block 'GroundStation' has attributes for temperature, batteryLevel, and fuelQuantity, which are not its attributes but those of the space-based system.
-2. Signal 'tM_7978(int value)' in RFTransmitter and its corresponding relation are unaccounted for in Diagram1.
-3. There is no block representing the Watchdog's activity of checking if tasks are still responsive, which is a critical system function as per the specification.
+1. Block 'GroundStation' has attributes for temperature, batteryLevel, and fuelQuantity, which are not its attributes but those of the space-based system
+2. Signal 'tM_7978(int value)' in RFTransmitter and its corresponding relation are unaccounted for in Diagram1
+3. There is no block representing the Watchdog's activity of checking if tasks are still responsive, which is a critical system function as per the specification
 4. There is no representation for the cancellation and recomputation of TM upon receiving another TC, as described in the specification
-5. The association of 'Microcontroller' with the task of restarting the system if tasks are unresponsive is not clearly translated into relationships with other blocks.
+5. The association of 'Microcontroller' with the task of restarting the system if tasks are unresponsive is not clearly translated into relationships with other blocks
 Do correct incoherency 1-5 to propose a new block diagram.
 
 ```
