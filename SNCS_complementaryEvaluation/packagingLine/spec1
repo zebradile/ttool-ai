@@ -1,0 +1,31 @@
+The system to be developped is the controller of a smoked salmon packaging line.
+
+The packaging line will be composed of three machines distributed along a conveyor belt (see Figure 1). The first machine will deposit plastic-coated trays one by one onto the conveyor. The second machine will place a salmon fillet core on each tray in front of it. The third machine will hermetically seal each tray in front of it and then deposit it in an output receptacle at the end of the line. Each time the machines operate on a tray, the conveyor belt stops until all three machines have finished their current task, then moves forward until each machine can process the next tray.
+
+Machines 1 and 2 will be fed by a store containing trays and salmon fillets, respectively. They have the following actuators:
+- A gripper for handling the trays and salmon fillets;
+- A motor for lateral movement of the gripper, between the store and the conveyor;
+- A motor for vertical movement of the gripper.
+
+They have the following sensors:
+- A proprioceptive sensor that allows them to know the position of their gripper;
+- A sensor to determine the presence, or absence, of a tray in front of them.
+
+Machine 3 is supplied by a store containing plastic films and feeds an output receptacle. It has the following actuators:
+- A press for handling and sealing the trays;
+- A motor for lateral movement of the press, between the store and the conveyor and between the conveyor and the receptacle;
+- A motor for vertical movement of the press.
+
+It has the following sensors:
+- A proprioceptive sensor to know the position of the press;
+- A sensor to determine the presence, or absence, of a tray in front of it.
+
+Finally, the conveyor belt has a motor.
+
+The following actions must not be possible under any circumstances:
+1. Machine 1 places a tray on top of another tray;
+2. Machine 2 places a salmon fillet on the conveyor (i.e., if no tray is present in front of it);
+3. Machine 3 places and seals a hermetic film on the conveyor (i.e., if no tray is present in front of it).
+
+The three machines and the conveyor are managed in parallel by a single controller that processes the data from their sensors, develops instructions, and sends them to their actuators.
+
